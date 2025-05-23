@@ -1,0 +1,1751 @@
+Transaction ID,Customer ID,Book Title,Author,Genre,Purchase Method,Payment Method,Stock Before,Stock After,Loyalty Points,Promotion Applied,Discount Applied,Order Status,Restock Triggered
+59b278fe,914e0b,1984,George Orwell,Dystopian,Online,Cash,25,22,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+8f90d6f6,c8d80d,Becoming,Michelle Obama,Biography,Online,Online Payment,14,12,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+a116662e,dba9d8,The Midnight Library,Matt Haig,Fantasy,Online,Cash,21,18,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+2db9cc65,7cdf6c,Dune,Frank Herbert,Sci-Fi,Online,Cash,26,24,20,Flat 50% Discount,50,Completed,No
+d99cc2d4,eb00af,Dune,Frank Herbert,Sci-Fi,Online,Card,6,5,10,"Buy One, Get One Free",0,Completed,No
+4d2b83d3,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,25,23,0,,0,Completed,No
+3096b53a,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,36,33,0,,0,Completed,No
+77911f67,ebcf20,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,27,25,20,"Buy One, Get One Free",0,Completed,No
+db39c2f6,e17142,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,18,15,30,Flat 50% Discount,50,Completed,No
+37adb63a,9828cd,1984,George Orwell,Dystopian,Online,Cash,44,43,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+a64edcfc,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,8,6,0,,0,Completed,No
+d19d83d0,1702c4,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,42,40,20,"Buy One, Get One Free",0,Completed,No
+7af54731,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,15,14,0,,0,Completed,No
+8b15d1e2,0c6866,Atomic Habits,James Clear,Self-Help,Online,Card,26,25,10,Flat 50% Discount,50,Completed,No
+f5955790,2d25f0,1984,George Orwell,Dystopian,Online,Card,6,4,20,Earn 2x Reward Points,0,Completed,Yes
+fea3e3a4,9f1b86,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,34,33,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+ac7c6241,2ecd3d,Atomic Habits,James Clear,Self-Help,Online,Card,14,11,30,,0,Completed,No
+bfb9dbde,852052,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,14,13,10,Earn 2x Reward Points,0,Completed,No
+2ec34fec,47963c,Atomic Habits,James Clear,Self-Help,Online,Cash,5,2,30,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+55a5686a,743852,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,16,14,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+95185d2f,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,9,8,0,,0,Completed,No
+ab731059,a39c46,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,47,46,10,"Buy One, Get One Free",0,Completed,No
+796e5824,a3b2a4,1984,George Orwell,Dystopian,Online,Cash,9,7,20,Flat 50% Discount,50,Completed,No
+f2a18eef,5d57d0,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,9,8,10,"Buy One, Get One Free",0,Completed,No
+a3425448,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,23,20,0,,0,Completed,No
+20e41e60,c42fdc,The Midnight Library,Matt Haig,Fantasy,Online,Card,8,6,20,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+6610e42e,ce6c88,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,13,10,30,Earn 2x Reward Points,0,Completed,No
+c5f68003,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,19,17,0,,0,Completed,No
+f4c17bf0,ab0682,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,22,21,10,"Buy One, Get One Free",0,Completed,No
+26b5a668,33e2c8,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,38,36,20,,0,Completed,No
+c521f0fd,897844,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,8,7,10,,0,Completed,No
+bb123747,cfb7a4,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,14,11,30,Earn 2x Reward Points,0,Completed,No
+d2094260,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,43,40,0,,0,Completed,No
+53d7a469,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,38,35,0,,0,Completed,No
+54cee083,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,28,27,0,,0,Completed,No
+fc3762d8,2cf50e,The Midnight Library,Matt Haig,Fantasy,Online,Card,18,17,10,"Buy One, Get One Free",0,Completed,No
+4a3e020d,31bfa7,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,38,36,20,Flat 50% Discount,50,Completed,No
+289bbc2e,3e391a,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,16,14,20,,0,Completed,No
+93a9a05c,b3f86b,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,44,42,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+29894c8c,938560,Dune,Frank Herbert,Sci-Fi,Online,Card,35,32,30,Earn 2x Reward Points,0,Completed,No
+32bf1be5,969a81,1984,George Orwell,Dystopian,Online,Online Payment,34,31,30,Flat 50% Discount,50,Completed,No
+a61252d1,215907,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,23,20,30,Earn 2x Reward Points,0,Completed,No
+10c285d4,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,43,41,0,,0,Completed,No
+f45b9e6f,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,22,19,0,,0,Completed,No
+128ab526,e3ac5b,The Silent Patient,Alex Michaelides,Thriller,Online,Card,11,10,10,Flat 50% Discount,50,Completed,No
+4a66ebef,455884,Atomic Habits,James Clear,Self-Help,Online,Online Payment,28,27,10,,0,Completed,No
+23633696,7d6092,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,23,22,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+28031812,1e8bce,Educated,Tara Westover,Memoir,Online,Card,43,40,30,"Buy One, Get One Free",0,Completed,No
+352b28e3,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,39,38,0,,0,Completed,No
+4859fee1,95590f,Becoming,Michelle Obama,Biography,Online,Card,45,42,30,"Buy One, Get One Free",0,Completed,No
+71932e4f,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,47,45,0,,0,Completed,No
+d39c8a04,9dbc56,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,42,39,30,Earn 2x Reward Points,0,Completed,No
+764ab131,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,46,44,0,,0,Completed,No
+f0fada6b,e6881c,Atomic Habits,James Clear,Self-Help,Online,Online Payment,30,29,10,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+3f96446b,ca6990,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,21,19,20,"Buy One, Get One Free",0,Completed,No
+cbe752ad,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,21,18,0,,0,Completed,No
+1f1f5389,f9a6e0,Dune,Frank Herbert,Sci-Fi,Online,Card,46,43,30,"Buy One, Get One Free",0,Completed,No
+c249c706,e2e129,Becoming,Michelle Obama,Biography,Online,Cash,41,39,20,Flat 50% Discount,50,Completed,No
+6c8d09a7,ca0a8d,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,9,6,30,Flat 50% Discount,50,Completed,No
+fd21d91d,Guest,1984,George Orwell,Dystopian,In-Store,Card,9,7,0,,0,Completed,No
+e292a14b,8688fc,1984,George Orwell,Dystopian,Online,Card,41,40,10,,0,Completed,No
+4670a3e1,b183c9,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,36,33,30,Earn 2x Reward Points,0,Completed,No
+d29f223c,5c7921,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,38,37,10,Earn 2x Reward Points,0,Completed,No
+3ef43594,240fbe,Becoming,Michelle Obama,Biography,Online,Card,44,41,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+3a1a8f02,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,28,26,0,,0,Completed,No
+903f0293,d7d797,Becoming,Michelle Obama,Biography,Online,Card,47,44,30,Earn 2x Reward Points,0,Completed,No
+e742f54b,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,50,47,0,,0,Completed,No
+c3d7ee4f,cff0f8,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,50,49,10,Flat 50% Discount,50,Completed,No
+51d6e70e,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,14,12,0,,0,Completed,No
+9157a75c,d08321,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,42,39,30,Flat 50% Discount,50,Completed,No
+fcf929a0,796a94,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,22,20,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+2e8cdd8b,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,6,5,0,,0,Completed,No
+721e5deb,c61b9c,Becoming,Michelle Obama,Biography,Online,Card,26,24,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+cf762484,Guest,1984,George Orwell,Dystopian,In-Store,Card,19,17,0,,0,Completed,No
+a76cc7c5,cdba80,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,43,42,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+bb90b41e,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,39,38,0,,0,Completed,No
+de04f971,dc9780,Educated,Tara Westover,Memoir,Online,Cash,33,32,10,,0,Completed,No
+886a1db2,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,34,33,0,,0,Declined (Insufficient Funds),No
+eb209a0f,774489,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,49,46,30,Flat 50% Discount,50,Completed,No
+1a4b9bf1,f89699,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,35,34,10,"Buy One, Get One Free",0,Completed,No
+9b34ae41,7898d3,The Midnight Library,Matt Haig,Fantasy,Online,Card,24,21,30,,0,Completed,No
+6472bda1,5accea,Becoming,Michelle Obama,Biography,Online,Online Payment,31,30,10,Earn 2x Reward Points,0,Completed,No
+d49ce69e,6b9dcb,1984,George Orwell,Dystopian,Online,Card,19,17,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+8d5a6504,2c3d88,Dune,Frank Herbert,Sci-Fi,Online,Cash,21,19,20,Flat 50% Discount,50,Completed,No
+94b5f078,0330a4,1984,George Orwell,Dystopian,Online,Card,33,32,10,,0,Completed,No
+ea856685,28f179,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,28,26,20,"Buy One, Get One Free",0,Completed,No
+9381e09d,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,30,29,0,,0,Completed,No
+8fd0b2b9,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,8,6,0,,0,Completed,No
+6f7717c6,f9e873,1984,George Orwell,Dystopian,Online,Card,45,42,30,Flat 50% Discount,50,Completed,No
+7ba7e886,bfa2ae,Dune,Frank Herbert,Sci-Fi,Online,Card,44,42,20,,0,Completed,No
+ffa9d186,668b1e,Educated,Tara Westover,Memoir,Online,Cash,5,3,20,,0,Completed,Yes
+473f4dcf,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,35,32,0,,0,Completed,No
+7f141638,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,38,36,0,,0,Completed,No
+cfba865d,c829d2,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,21,19,20,,0,Completed,No
+cefe3d63,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,32,29,0,,0,Completed,No
+5b52fa58,4c4e1b,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,38,37,10,Earn 2x Reward Points,0,Completed,No
+12b93db5,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,6,3,0,,0,Completed,Yes
+d2e2d293,7d17ee,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,46,45,10,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+8e31a172,8d32a5,Educated,Tara Westover,Memoir,Online,Card,34,32,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+84bf059a,82e1e0,1984,George Orwell,Dystopian,Online,Cash,5,2,30,Flat 50% Discount,50,Completed,Yes
+8ddce8e9,Guest,Educated,Tara Westover,Memoir,In-Store,Card,7,6,0,,0,Completed,No
+916524ad,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,26,24,0,,0,Completed,No
+5c74ef3f,d764ed,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,15,13,20,Earn 2x Reward Points,0,Completed,No
+ee6cc231,18aae7,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,44,41,30,Earn 2x Reward Points,0,Completed,No
+6ec24145,e7b5db,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,15,14,10,Earn 2x Reward Points,0,Completed,No
+e122bde8,6b9a0f,The Midnight Library,Matt Haig,Fantasy,Online,Card,9,7,20,"Buy One, Get One Free",0,Completed,No
+32dff708,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,10,9,0,,0,Completed,No
+8e8bd596,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,34,33,0,,0,Completed,No
+38fb8a79,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,5,3,0,,0,Declined (Insufficient Funds),Yes
+ea7b76ec,bfd24f,1984,George Orwell,Dystopian,Online,Online Payment,15,14,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+a87b9cc3,a618d7,Becoming,Michelle Obama,Biography,Online,Online Payment,39,36,30,"Buy One, Get One Free",0,Completed,No
+bcf4f3ca,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,25,24,0,,0,Completed,No
+7f666eee,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,40,39,0,,0,Completed,No
+9fe5091b,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,34,31,0,,0,Completed,No
+19d96161,21b5d8,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,8,7,10,Earn 2x Reward Points,0,Completed,No
+237093dc,c0bc93,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,41,38,30,Flat 50% Discount,50,Completed,No
+c9a00a3f,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,31,30,0,,0,Completed,No
+0d79fdef,2da46f,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,22,20,20,,0,Completed,No
+20413390,8cce0a,Educated,Tara Westover,Memoir,Online,Cash,34,32,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+2910397e,44156,Becoming,Michelle Obama,Biography,Online,Cash,29,27,20,Flat 50% Discount,50,Completed,No
+48c8b723,e6caed,Becoming,Michelle Obama,Biography,Online,Card,43,41,20,Flat 50% Discount,50,Completed,No
+2537d785,c63a27,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,10,8,20,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+37afd607,7c2ece,Atomic Habits,James Clear,Self-Help,Online,Card,47,46,10,Flat 50% Discount,50,Completed,No
+63b81995,351bc9,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,26,25,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+275dccd6,6c3076,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,11,10,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+f9c003fa,5111de,Atomic Habits,James Clear,Self-Help,Online,Card,21,20,10,"Buy One, Get One Free",0,Completed,No
+f681ce87,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,16,14,0,,0,Completed,No
+df96cc79,40759d,The Midnight Library,Matt Haig,Fantasy,Online,Cash,37,35,20,Earn 2x Reward Points,0,Completed,No
+265dc780,bd15f3,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,8,7,10,"Buy One, Get One Free",0,Completed,No
+169d3209,6b9c51,Educated,Tara Westover,Memoir,Online,Cash,16,14,20,Earn 2x Reward Points,0,Completed,No
+e812b42f,ad38d5,Educated,Tara Westover,Memoir,Online,Card,42,39,30,Flat 50% Discount,50,Completed,No
+07b32abb,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,21,20,0,,0,Completed,No
+bfb69d2e,7c65c3,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,29,28,10,Earn 2x Reward Points,0,Completed,No
+680654f6,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,22,21,0,,0,Completed,No
+8851d1bf,9beab1,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,28,25,30,,0,Completed,No
+6d3c8d41,a2c051,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,24,21,30,"Buy One, Get One Free",0,Completed,No
+cd1545c2,41470e,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,20,17,30,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+af587414,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,47,44,0,,0,Completed,No
+54f90bf0,48a8bf,Becoming,Michelle Obama,Biography,Online,Online Payment,20,19,10,Flat 50% Discount,50,Completed,No
+54525b06,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,21,18,0,,0,Completed,No
+f539b7e9,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,20,17,0,,0,Completed,No
+d2b5fba5,300b71,Atomic Habits,James Clear,Self-Help,Online,Cash,48,47,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+4c801539,008a0a,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,31,28,30,,0,Completed,No
+9115d798,e938cb,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,30,28,20,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+8eb25748,f349ba,The Midnight Library,Matt Haig,Fantasy,Online,Card,26,23,30,Earn 2x Reward Points,0,Completed,No
+047e2cc1,a4ed71,1984,George Orwell,Dystopian,Online,Cash,24,23,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+0ff1c945,ff1284,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,28,27,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+1c70e033,8b7b1a,The Silent Patient,Alex Michaelides,Thriller,Online,Card,50,48,20,Earn 2x Reward Points,0,Completed,No
+988adc75,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,48,47,0,,0,Completed,No
+8deacf50,1a7a0a,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,38,35,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+8dee10e3,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,43,41,0,,0,Completed,No
+5842bcfd,86ab09,The Midnight Library,Matt Haig,Fantasy,Online,Card,37,36,10,Earn 2x Reward Points,0,Completed,No
+94afb095,140a75,1984,George Orwell,Dystopian,Online,Cash,12,9,30,Earn 2x Reward Points,0,Completed,No
+72540350,4e2c0c,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,40,37,30,"Buy One, Get One Free",0,Completed,No
+6fd638eb,d2a928,Atomic Habits,James Clear,Self-Help,Online,Cash,8,6,20,"Buy One, Get One Free",0,Completed,No
+5a235efd,61bc4f,The Midnight Library,Matt Haig,Fantasy,Online,Cash,19,16,30,,0,Completed,No
+569c33f6,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,21,20,0,,0,Completed,No
+d2598b38,fde62a,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,39,38,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+4f02455c,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,31,30,0,,0,Completed,No
+b8af1d57,6f078d,The Midnight Library,Matt Haig,Fantasy,Online,Card,43,42,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+5196c02a,aa164b,Educated,Tara Westover,Memoir,Online,Cash,46,44,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+f5dcd320,ea440a,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,29,27,20,"Buy One, Get One Free",0,Completed,No
+6de32ae1,050b55,Dune,Frank Herbert,Sci-Fi,Online,Card,45,42,30,,0,Completed,No
+63d15499,79c53f,Atomic Habits,James Clear,Self-Help,Online,Card,10,9,10,Earn 2x Reward Points,0,Completed,No
+16372c78,e0fbdd,The Midnight Library,Matt Haig,Fantasy,Online,Cash,8,7,10,Flat 50% Discount,50,Completed,No
+5063d762,a36649,1984,George Orwell,Dystopian,Online,Cash,20,18,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+0a7bcf10,f913f5,Educated,Tara Westover,Memoir,Online,Card,33,30,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+c8d0dfc2,2e87d5,Dune,Frank Herbert,Sci-Fi,Online,Card,22,20,20,Earn 2x Reward Points,0,Completed,No
+4c6be895,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,42,39,0,,0,Completed,No
+44ca2a12,b962c7,Educated,Tara Westover,Memoir,Online,Cash,34,32,20,,0,Completed,No
+1bbbda0f,620e0b,1984,George Orwell,Dystopian,Online,Card,30,29,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+aed5dfd1,873c54,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,15,12,30,Flat 50% Discount,50,Completed,No
+0ca38019,43b424,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,29,27,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+5094799c,2591d2,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,8,7,10,Earn 2x Reward Points,0,Completed,No
+b4105e57,1251ec,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,50,48,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+c6a3cb45,430a05,Becoming,Michelle Obama,Biography,Online,Card,10,8,20,Earn 2x Reward Points,0,Completed,No
+e1c11e38,d13cd3,The Midnight Library,Matt Haig,Fantasy,Online,Card,40,39,10,,0,Completed,No
+7c8ebe3a,eec5e4,Educated,Tara Westover,Memoir,Online,Online Payment,31,28,30,,0,Completed,No
+7ea8a589,dde21a,Becoming,Michelle Obama,Biography,Online,Card,31,29,20,"Buy One, Get One Free",0,Completed,No
+57ee20ce,713131,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,20,17,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+680f0cf5,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,30,28,0,,0,Completed,No
+8bc9776c,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,12,10,0,,0,Completed,No
+01c50a79,e9783a,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,8,7,10,Earn 2x Reward Points,0,Completed,No
+e89088ff,db85a9,Becoming,Michelle Obama,Biography,Online,Online Payment,10,9,10,Earn 2x Reward Points,0,Completed,No
+c57d2b6f,2cfddf,Atomic Habits,James Clear,Self-Help,Online,Cash,46,45,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+2c203843,57fb9c,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,34,32,20,Earn 2x Reward Points,0,Completed,No
+6934514,240244,Dune,Frank Herbert,Sci-Fi,Online,Cash,5,3,20,,0,Completed,Yes
+612c9f2f,b52ce3,1984,George Orwell,Dystopian,Online,Online Payment,17,15,20,,0,Completed,No
+9f503a5a,fc2a73,Dune,Frank Herbert,Sci-Fi,Online,Cash,42,40,20,"Buy One, Get One Free",0,Completed,No
+34a1f528,f2ef95,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,23,20,30,"Buy One, Get One Free",0,Completed,No
+8ec04293,caeb08,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,26,23,30,"Buy One, Get One Free",0,Completed,No
+05acc4d4,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,8,7,0,,0,Completed,No
+e62e483f,a19e07,1984,George Orwell,Dystopian,Online,Online Payment,7,6,10,"Buy One, Get One Free",0,Completed,No
+4f9fd607,780ba4,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,40,39,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+cf9044de,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,11,10,0,,0,Completed,No
+8dbf0a9f,e0692d,The Silent Patient,Alex Michaelides,Thriller,Online,Card,36,35,10,Flat 50% Discount,50,Completed,No
+c74ae98a,Guest,1984,George Orwell,Dystopian,In-Store,Cash,35,34,0,,0,Completed,No
+6a1f11ac,d76fc0,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,25,23,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+0fc35d7b,146fdb,Dune,Frank Herbert,Sci-Fi,Online,Cash,48,45,30,Earn 2x Reward Points,0,Completed,No
+321aab8a,d8d092,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,24,23,10,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+88d63741,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,14,11,0,,0,Completed,No
+b567c0df,5d3df8,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,12,9,30,Flat 50% Discount,50,Completed,No
+268443ad,420e2f,Dune,Frank Herbert,Sci-Fi,Online,Cash,22,21,10,,0,Completed,No
+6f7be0b3,a55dd5,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,12,11,10,,0,Completed,No
+be453e45,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,49,48,0,,0,Completed,No
+2c8d9e0e,d41f07,1984,George Orwell,Dystopian,Online,Card,20,17,30,,0,Completed,No
+e24b256b,0b7e26,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,43,42,10,,0,Completed,No
+76e58f5f,4744b7,The Midnight Library,Matt Haig,Fantasy,Online,Cash,49,46,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+12aa3d64,Guest,1984,George Orwell,Dystopian,In-Store,Cash,24,23,0,,0,Completed,No
+68b24eba,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,14,13,0,,0,Completed,No
+21755f71,e61e3c,The Silent Patient,Alex Michaelides,Thriller,Online,Card,26,23,30,"Buy One, Get One Free",0,Completed,No
+bc800d00,42ad41,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,21,18,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+35f15e61,27834d,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,27,24,30,Flat 50% Discount,50,Completed,No
+64dc2215,1d3ea0,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,12,11,10,,0,Completed,No
+08662eab,654bde,Dune,Frank Herbert,Sci-Fi,Online,Card,20,17,30,Flat 50% Discount,50,Completed,No
+a5fba0ea,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,24,23,0,,0,Completed,No
+054cee4b,61ab17,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,24,21,30,,0,Completed,No
+3c84355f,79e397,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,10,8,20,Earn 2x Reward Points,0,Completed,No
+c73cb33a,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,19,18,0,,0,Completed,No
+8fe2b9c5,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,39,38,0,,0,Completed,No
+ce0d9ecc,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,18,16,0,,0,Completed,No
+66c749c7,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,10,7,0,,0,Completed,No
+70f76244,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,18,17,0,,0,Completed,No
+1.89E+11,3d5fe4,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,19,17,20,Earn 2x Reward Points,0,Completed,No
+564b7376,2eff00,Atomic Habits,James Clear,Self-Help,Online,Cash,20,19,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+509cb00c,8869c6,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,26,25,10,"Buy One, Get One Free",0,Completed,No
+0234a7a6,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Online Payment,41,38,0,,0,Completed,No
+8e8a83bf,193d9e,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,20,19,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+c9a8d6c2,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,17,16,0,,0,Completed,No
+8102a23d,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,10,9,0,,0,Completed,No
+d848a575,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,36,35,0,,0,Completed,No
+e349c5fd,119518,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,49,46,30,"Buy One, Get One Free",0,Completed,No
+d1c05847,eb352b,Becoming,Michelle Obama,Biography,Online,Online Payment,36,35,10,"Buy One, Get One Free",0,Completed,No
+b904b7af,8.51E+05,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,32,30,20,,0,Completed,No
+f4b82edd,e8c38a,1984,George Orwell,Dystopian,Online,Cash,41,39,20,"Buy One, Get One Free",0,Completed,No
+a4a214d8,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,45,43,0,,0,Completed,No
+ecf02a43,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,31,29,0,,0,Completed,No
+095e9974,5d20e0,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,33,31,20,,0,Completed,No
+fbacb6c1,c956d0,1984,George Orwell,Dystopian,Online,Cash,23,20,30,Earn 2x Reward Points,0,Completed,No
+1274aedd,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,7,5,0,,0,Completed,No
+3c3531cd,d5a60c,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,23,20,30,,0,Completed,No
+57548613,67f5eb,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,22,20,20,,0,Completed,No
+29522bb0,c68bd7,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,40,39,10,Flat 50% Discount,50,Completed,No
+4f25cc0c,2bd822,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,34,31,30,Earn 2x Reward Points,0,Completed,No
+878c4afd,61c18a,1984,George Orwell,Dystopian,Online,Card,44,43,10,"Buy One, Get One Free",0,Completed,No
+e45caa65,36b460,Atomic Habits,James Clear,Self-Help,Online,Card,36,35,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+274f6b87,7e0444,Educated,Tara Westover,Memoir,Online,Cash,42,41,10,,0,Completed,No
+664f545c,d7e434,The Midnight Library,Matt Haig,Fantasy,Online,Cash,46,43,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+18d84b23,18dc37,1984,George Orwell,Dystopian,Online,Cash,21,18,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+bee744db,cd1beb,1984,George Orwell,Dystopian,Online,Card,44,43,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+63c6d307,048d2f,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,32,31,10,"Buy One, Get One Free",0,Completed,No
+6aea3c53,5969c3,Dune,Frank Herbert,Sci-Fi,Online,Cash,21,20,10,,0,Completed,No
+7b34653b,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,19,18,0,,0,Completed,No
+d273ae3c,60076f,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,9,7,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+8247aede,5ed6a2,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,29,26,30,Earn 2x Reward Points,0,Completed,No
+57145376,42cd3d,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,24,22,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+1a84b27d,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,45,43,0,,0,Completed,No
+a1618e30,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,50,48,0,,0,Completed,No
+2cc822ae,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,10,9,0,,0,Completed,No
+40344386,f16255,The Midnight Library,Matt Haig,Fantasy,Online,Cash,49,46,30,,0,Completed,No
+a99f2853,67830e,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,29,27,20,Earn 2x Reward Points,0,Completed,No
+c64319bc,d8b884,Atomic Habits,James Clear,Self-Help,Online,Cash,8,5,30,Flat 50% Discount,50,Declined (Insufficient Funds),No
+00720ce7,d19e99,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,19,17,20,Flat 50% Discount,50,Completed,No
+56b14601,b95c9f,Atomic Habits,James Clear,Self-Help,Online,Online Payment,23,21,20,Earn 2x Reward Points,0,Completed,No
+73b49a80,f73385,Dune,Frank Herbert,Sci-Fi,Online,Card,38,37,10,,0,Completed,No
+d3f398af,6da42a,Becoming,Michelle Obama,Biography,Online,Card,35,32,30,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+4f892737,c78da5,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,19,17,20,"Buy One, Get One Free",0,Completed,No
+95464c64,b09815,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,48,46,20,,0,Completed,No
+e0dd947e,Guest,1984,George Orwell,Dystopian,In-Store,Cash,45,44,0,,0,Completed,No
+de859e8a,a1a657,Dune,Frank Herbert,Sci-Fi,Online,Card,9,7,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+ef69381b,65475e,Educated,Tara Westover,Memoir,Online,Online Payment,33,30,30,Earn 2x Reward Points,0,Completed,No
+bab0f005,e36480,The Midnight Library,Matt Haig,Fantasy,Online,Card,20,17,30,"Buy One, Get One Free",0,Completed,No
+e4539271,2d1f24,Educated,Tara Westover,Memoir,Online,Card,17,14,30,,0,Declined (Insufficient Funds),No
+b809199b,b73c8e,1984,George Orwell,Dystopian,Online,Cash,35,32,30,Flat 50% Discount,50,Completed,No
+a2430372,be9704,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,29,28,10,,0,Completed,No
+f945f8f6,f5de9c,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,27,25,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+4282a5e7,7bbfa7,Becoming,Michelle Obama,Biography,Online,Cash,11,10,10,,0,Completed,No
+573dd644,baa302,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,6,3,30,,0,Completed,Yes
+992883df,Guest,1984,George Orwell,Dystopian,In-Store,Cash,29,27,0,,0,Completed,No
+5709c26c,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,48,47,0,,0,Completed,No
+c785c340,a29a82,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,36,34,20,"Buy One, Get One Free",0,Completed,No
+46e22c63,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,25,23,0,,0,Completed,No
+a3c0fc91,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,47,46,0,,0,Completed,No
+0f918901,3401f0,The Midnight Library,Matt Haig,Fantasy,Online,Cash,45,42,30,Earn 2x Reward Points,0,Completed,No
+2ff2af7d,43fe3b,Atomic Habits,James Clear,Self-Help,Online,Card,11,9,20,Flat 50% Discount,50,Completed,No
+2f4a8d22,01a069,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,42,39,30,,0,Completed,No
+b9046ea9,788880,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,26,24,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+7bc8cf31,b157c8,Atomic Habits,James Clear,Self-Help,Online,Online Payment,41,40,10,"Buy One, Get One Free",0,Completed,No
+132fdbac,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,28,25,0,,0,Completed,No
+3c207fe1,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,10,8,0,,0,Completed,No
+a8972d85,9397b6,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,13,10,30,Earn 2x Reward Points,0,Completed,No
+5d55f471,b0e142,Dune,Frank Herbert,Sci-Fi,Online,Card,43,42,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+e6353fc1,a4a8a8,Educated,Tara Westover,Memoir,Online,Card,21,19,20,Earn 2x Reward Points,0,Completed,No
+5ea84a48,1c69f7,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,27,25,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+3a8ee895,cfdc7a,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,34,33,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+59483709,96bdf4,Dune,Frank Herbert,Sci-Fi,Online,Cash,10,8,20,Flat 50% Discount,50,Completed,No
+99b719c2,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,12,11,0,,0,Completed,No
+cce39f40,d61d94,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,18,17,10,,0,Completed,No
+37db827e,9f7502,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,47,45,20,,0,Completed,No
+40345050,e9496d,Becoming,Michelle Obama,Biography,Online,Online Payment,38,35,30,Earn 2x Reward Points,0,Completed,No
+ffe467c2,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,7,5,0,,0,Completed,No
+f70daaf0,56db37,Atomic Habits,James Clear,Self-Help,Online,Online Payment,47,45,20,Flat 50% Discount,50,Completed,No
+ef1c5b09,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,33,30,0,,0,Completed,No
+f4725a4a,0384bf,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,40,38,20,"Buy One, Get One Free",0,Completed,No
+1c85b89a,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,17,14,0,,0,Completed,No
+aaa385d1,401790,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,23,22,10,"Buy One, Get One Free",0,Completed,No
+7db94480,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,9,6,0,,0,Completed,No
+f729f065,7cf434,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,15,14,10,,0,Completed,No
+1903bbd0,aca6c8,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,8,6,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+f2498476,7affdb,Becoming,Michelle Obama,Biography,Online,Online Payment,31,28,30,,0,Completed,No
+e08aa599,7cc3b3,Atomic Habits,James Clear,Self-Help,Online,Cash,38,36,20,,0,Completed,No
+a1bcd892,1d55b3,Atomic Habits,James Clear,Self-Help,Online,Online Payment,39,36,30,,0,Completed,No
+baec8d18,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,31,28,0,,0,Completed,No
+183875a5,898ab0,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,38,36,20,Earn 2x Reward Points,0,Completed,No
+6e05e8bb,7aa07b,Atomic Habits,James Clear,Self-Help,Online,Online Payment,40,37,30,Earn 2x Reward Points,0,Completed,No
+667ab177,568aed,Educated,Tara Westover,Memoir,Online,Card,41,39,20,Flat 50% Discount,50,Completed,No
+b2a456a6,719b39,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,42,40,20,Flat 50% Discount,50,Declined (Insufficient Funds),No
+c037632d,6a8f07,Atomic Habits,James Clear,Self-Help,Online,Card,17,14,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+b9e938bd,ee3a76,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,46,44,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+5ff658d8,18c663,The Midnight Library,Matt Haig,Fantasy,Online,Card,37,34,30,Earn 2x Reward Points,0,Completed,No
+76689cef,3f1139,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,44,41,30,Flat 50% Discount,50,Completed,No
+c09e4095,737db2,1984,George Orwell,Dystopian,Online,Cash,26,25,10,Earn 2x Reward Points,0,Completed,No
+bc104d47,cb4262,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,45,42,30,"Buy One, Get One Free",0,Completed,No
+1d508875,c727e9,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,40,38,20,"Buy One, Get One Free",0,Completed,No
+af103fae,7718d4,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,37,34,30,"Buy One, Get One Free",0,Completed,No
+180412b6,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,21,19,0,,0,Completed,No
+d38202a7,db62e4,1984,George Orwell,Dystopian,Online,Card,32,30,20,Earn 2x Reward Points,0,Completed,No
+ec1d13b6,03b814,Atomic Habits,James Clear,Self-Help,Online,Card,44,42,20,"Buy One, Get One Free",0,Completed,No
+72c786c0,9df6f5,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,9,8,10,,0,Completed,No
+0dcf9eee,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,47,46,0,,0,Declined (Insufficient Funds),No
+177e3ed5,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,21,19,0,,0,Completed,No
+d8180ddf,a45d47,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,46,44,20,,0,Completed,No
+1752679f,18341a,Atomic Habits,James Clear,Self-Help,Online,Card,28,26,20,Earn 2x Reward Points,0,Completed,No
+69d8f63f,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,32,30,0,,0,Completed,No
+fdf15095,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,44,41,0,,0,Completed,No
+706f6c0b,f735ba,Atomic Habits,James Clear,Self-Help,Online,Online Payment,22,21,10,,0,Completed,No
+b7cef75b,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,23,20,0,,0,Completed,No
+5f147de7,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,41,40,0,,0,Completed,No
+d89eeff3,427d6a,Atomic Habits,James Clear,Self-Help,Online,Online Payment,24,21,30,,0,Completed,No
+038d2893,ae966a,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,20,19,10,"Buy One, Get One Free",0,Completed,No
+27c7e874,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,35,32,0,,0,Completed,No
+352f73d8,c24f2f,Educated,Tara Westover,Memoir,Online,Online Payment,38,35,30,"Buy One, Get One Free",0,Completed,No
+d08d578b,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,18,17,0,,0,Completed,No
+15b2fbdd,7.63E+54,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,13,12,10,Earn 2x Reward Points,0,Completed,No
+02d7aa6a,0259fe,Dune,Frank Herbert,Sci-Fi,Online,Card,7,5,20,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+a28798ab,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,24,21,0,,0,Completed,No
+990d1380,7e80bd,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,49,47,20,,0,Completed,No
+38b9a9ab,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,15,13,0,,0,Completed,No
+1d4a7b75,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,16,15,0,,0,Completed,No
+317fa117,ece2ef,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,7,6,10,Flat 50% Discount,50,Completed,No
+999775a6,397d99,The Midnight Library,Matt Haig,Fantasy,Online,Card,29,28,10,"Buy One, Get One Free",0,Completed,No
+22af6d8e,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,7,4,0,,0,Completed,Yes
+26a58042,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,36,34,0,,0,Completed,No
+4207a80c,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,39,38,0,,0,Completed,No
+7a4769c2,0dd096,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,45,44,10,Flat 50% Discount,50,Completed,No
+125cc550,0ff89d,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,43,40,30,Earn 2x Reward Points,0,Completed,No
+8e9054e9,eb812e,The Midnight Library,Matt Haig,Fantasy,Online,Card,25,23,20,,0,Completed,No
+b81c632c,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,25,24,0,,0,Completed,No
+b059f5e9,590670,Dune,Frank Herbert,Sci-Fi,Online,Cash,27,26,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+e4517c67,1c73be,The Silent Patient,Alex Michaelides,Thriller,Online,Card,16,15,10,Flat 50% Discount,50,Completed,No
+1902cd0d,acf6a4,Becoming,Michelle Obama,Biography,Online,Card,38,36,20,"Buy One, Get One Free",0,Completed,No
+ece49921,188310,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,33,30,30,Earn 2x Reward Points,0,Completed,No
+36fe5656,53fa69,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,32,31,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+33bd8f7f,73ec11,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,8,5,30,"Buy One, Get One Free",0,Completed,No
+e4ddfaf3,1d3302,The Midnight Library,Matt Haig,Fantasy,Online,Cash,22,19,30,Flat 50% Discount,50,Completed,No
+645dfda2,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,48,47,0,,0,Completed,No
+862788b8,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,48,45,0,,0,Completed,No
+5897b575,3914da,Dune,Frank Herbert,Sci-Fi,Online,Cash,37,34,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+ebdcf90f,Guest,Educated,Tara Westover,Memoir,In-Store,Card,34,32,0,,0,Completed,No
+4d91a38c,0ffc1e,The Silent Patient,Alex Michaelides,Thriller,Online,Card,24,23,10,Earn 2x Reward Points,0,Completed,No
+0c884ccb,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,22,19,0,,0,Completed,No
+e0856d45,92be6a,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,29,27,20,Earn 2x Reward Points,0,Completed,No
+3ffdfa6e,eef7f2,Atomic Habits,James Clear,Self-Help,Online,Card,6,5,10,Earn 2x Reward Points,0,Completed,No
+13d2ad48,3d13d5,1984,George Orwell,Dystopian,Online,Card,24,23,10,"Buy One, Get One Free",0,Completed,No
+f3694116,4d2bb1,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,49,48,10,"Buy One, Get One Free",0,Completed,No
+c6d695b5,790c21,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,13,10,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+1be8d20a,72b640,Becoming,Michelle Obama,Biography,Online,Online Payment,35,34,10,Flat 50% Discount,50,Completed,No
+995aeade,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,31,30,0,,0,Completed,No
+103cfc2a,39fc6e,The Silent Patient,Alex Michaelides,Thriller,Online,Card,27,25,20,Earn 2x Reward Points,0,Completed,No
+44bfdb3a,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,50,49,0,,0,Completed,No
+5b294641,ef9110,Educated,Tara Westover,Memoir,Online,Online Payment,7,5,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+8d32cf19,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,33,31,0,,0,Completed,No
+93c7308b,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,7,5,0,,0,Completed,No
+691711d4,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,14,11,0,,0,Completed,No
+6bb853e2,3c4c11,The Silent Patient,Alex Michaelides,Thriller,Online,Card,30,29,10,Flat 50% Discount,50,Completed,No
+0d143b83,5f2b15,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,26,24,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+3fd1e38d,1494d9,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,9,8,10,Flat 50% Discount,50,Completed,No
+15937b3d,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,22,21,0,,0,Completed,No
+ebf8393e,52ea02,The Midnight Library,Matt Haig,Fantasy,Online,Cash,32,29,30,Flat 50% Discount,50,Declined (Insufficient Funds),No
+3a0a4ac1,9a5f05,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,11,9,20,Earn 2x Reward Points,0,Completed,No
+f0c33686,883b7b,Atomic Habits,James Clear,Self-Help,Online,Online Payment,36,33,30,Earn 2x Reward Points,0,Completed,No
+97b432c9,a0ec69,Educated,Tara Westover,Memoir,Online,Online Payment,39,37,20,Earn 2x Reward Points,0,Completed,No
+3a302917,Guest,1984,George Orwell,Dystopian,In-Store,Card,20,18,0,,0,Completed,No
+74671d8f,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,28,25,0,,0,Completed,No
+061fde4d,1fc83f,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,38,36,20,Flat 50% Discount,50,Completed,No
+7a23ec05,a6a8bf,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,32,30,20,"Buy One, Get One Free",0,Completed,No
+96cee8b4,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,5,3,0,,0,Completed,Yes
+b2e0d003,d48639,Becoming,Michelle Obama,Biography,Online,Online Payment,46,45,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+f2e5593c,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,23,22,0,,0,Completed,No
+473bd2e6,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,16,15,0,,0,Completed,No
+9233fdc7,18a637,The Midnight Library,Matt Haig,Fantasy,Online,Card,12,9,30,"Buy One, Get One Free",0,Completed,No
+9b971008,c97948,The Midnight Library,Matt Haig,Fantasy,Online,Cash,22,19,30,Flat 50% Discount,50,Completed,No
+2c9debaf,Guest,1984,George Orwell,Dystopian,In-Store,Card,36,35,0,,0,Completed,No
+5c8f4f75,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,46,44,0,,0,Completed,No
+8f6f98fb,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Online Payment,37,34,0,,0,Completed,No
+e5d07579,2c355a,Dune,Frank Herbert,Sci-Fi,Online,Cash,47,45,20,,0,Completed,No
+16f9f5fb,90d519,The Midnight Library,Matt Haig,Fantasy,Online,Card,24,22,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+157ee214,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,40,37,0,,0,Completed,No
+5ff9e760,297fde,Dune,Frank Herbert,Sci-Fi,Online,Card,16,13,30,Flat 50% Discount,50,Completed,No
+8e8ec877,a17e96,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,29,28,10,Earn 2x Reward Points,0,Completed,No
+9c850d5f,d3e54e,Becoming,Michelle Obama,Biography,Online,Card,34,32,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+36a25766,6e345a,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,48,46,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+d9614a79,d8fd92,Atomic Habits,James Clear,Self-Help,Online,Cash,48,45,30,,0,Completed,No
+7ee4e000,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,48,45,0,,0,Completed,No
+4d79a498,2d0724,1984,George Orwell,Dystopian,Online,Online Payment,17,15,20,Flat 50% Discount,50,Completed,No
+6efce38a,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,48,47,0,,0,Completed,No
+b15962d2,e758a4,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,33,30,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+9163d42d,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,7,5,0,,0,Completed,No
+a20df6e0,3a093b,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,36,33,30,"Buy One, Get One Free",0,Completed,No
+6658637d,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,42,41,0,,0,Completed,No
+9cf2c09d,7e5a92,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,25,23,20,Flat 50% Discount,50,Completed,No
+0b1cde3f,5dcef7,Dune,Frank Herbert,Sci-Fi,Online,Cash,43,42,10,"Buy One, Get One Free",0,Completed,No
+eeb2243a,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,27,25,0,,0,Completed,No
+b519ea35,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,31,28,0,,0,Completed,No
+1ea71748,6c9b2b,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,34,33,10,Flat 50% Discount,50,Completed,No
+df19598a,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,45,43,0,,0,Completed,No
+68726507,f708e3,1984,George Orwell,Dystopian,Online,Card,14,11,30,Flat 50% Discount,50,Completed,No
+20b31a3b,c5c9af,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,16,15,10,"Buy One, Get One Free",0,Completed,No
+0174bea6,0ac042,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,30,28,20,"Buy One, Get One Free",0,Completed,No
+b2bdb61d,182540,The Midnight Library,Matt Haig,Fantasy,Online,Cash,36,33,30,Flat 50% Discount,50,Completed,No
+21b15e33,3bd881,1984,George Orwell,Dystopian,Online,Online Payment,27,24,30,Flat 50% Discount,50,Completed,No
+23010268,7efc31,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,30,29,10,"Buy One, Get One Free",0,Completed,No
+fa44f77b,9d9745,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,35,33,20,,0,Completed,No
+a7228dbc,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,18,15,0,,0,Completed,No
+69397a8e,0981df,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,20,19,10,Flat 50% Discount,50,Completed,No
+1d5c07b9,4593ff,1984,George Orwell,Dystopian,Online,Online Payment,20,19,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+72371b2a,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,27,25,0,,0,Completed,No
+b3dbc378,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,24,21,0,,0,Completed,No
+c65a3e7a,0c243b,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,21,19,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+8173ef4a,a0fe77,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,18,15,30,"Buy One, Get One Free",0,Completed,No
+1118013,92820a,Educated,Tara Westover,Memoir,Online,Card,39,38,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+151e9830,be0aa2,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,48,45,30,"Buy One, Get One Free",0,Completed,No
+e906a258,89f175,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,37,35,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+9cdafd36,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,38,37,0,,0,Completed,No
+d0fd3093,e015e9,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,37,35,20,Flat 50% Discount,50,Completed,No
+486a41fd,cb1f88,1984,George Orwell,Dystopian,Online,Online Payment,13,11,20,Flat 50% Discount,50,Completed,No
+3f42cee0,15d08d,1984,George Orwell,Dystopian,Online,Card,47,45,20,,0,Completed,No
+37796408,99035f,Dune,Frank Herbert,Sci-Fi,Online,Card,29,27,20,"Buy One, Get One Free",0,Completed,No
+d162252e,50c421,Educated,Tara Westover,Memoir,Online,Online Payment,16,13,30,Flat 50% Discount,50,Declined (Insufficient Funds),No
+530e61c5,9edeaf,Educated,Tara Westover,Memoir,Online,Cash,37,34,30,,0,Completed,No
+6f2112cb,af3625,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,22,19,30,Flat 50% Discount,50,Declined (Insufficient Funds),No
+b86881a2,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,12,10,0,,0,Completed,No
+99f634f7,af4365,Educated,Tara Westover,Memoir,Online,Online Payment,31,30,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+10433aee,d7e908,Educated,Tara Westover,Memoir,Online,Cash,48,45,30,"Buy One, Get One Free",0,Completed,No
+885b6c76,5c6a11,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,13,12,10,Earn 2x Reward Points,0,Completed,No
+e8b62f15,ec2f3e,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,9,7,20,Flat 50% Discount,50,Completed,No
+94a5a4be,af4812,1984,George Orwell,Dystopian,Online,Card,40,39,10,Earn 2x Reward Points,0,Completed,No
+bced3304,3a7bbc,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,42,39,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+9d1ca473,c70b43,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,8,7,10,"Buy One, Get One Free",0,Completed,No
+c1696407,dbd976,Educated,Tara Westover,Memoir,Online,Online Payment,11,9,20,,0,Completed,No
+b937c6b3,a257b0,Educated,Tara Westover,Memoir,Online,Online Payment,48,47,10,"Buy One, Get One Free",0,Completed,No
+18a6a080,2cf444,The Midnight Library,Matt Haig,Fantasy,Online,Cash,37,34,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+236c88d3,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,24,21,0,,0,Completed,No
+fc5150ce,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,42,39,0,,0,Completed,No
+669e5c7b,86cbd3,Atomic Habits,James Clear,Self-Help,Online,Card,23,21,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+b04ded8d,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,36,34,0,,0,Completed,No
+6f7e9c50,6256f0,Atomic Habits,James Clear,Self-Help,Online,Card,35,33,20,Earn 2x Reward Points,0,Completed,No
+d84c7eab,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,38,37,0,,0,Completed,No
+af61043c,d7ecaf,Atomic Habits,James Clear,Self-Help,Online,Cash,27,25,20,Flat 50% Discount,50,Completed,No
+d988e9fb,aad196,1984,George Orwell,Dystopian,Online,Card,9,8,10,Flat 50% Discount,50,Completed,No
+319bea56,29d637,Educated,Tara Westover,Memoir,Online,Online Payment,44,43,10,,0,Completed,No
+5e341698,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,7,4,0,,0,Completed,Yes
+98f9d6a6,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,47,46,0,,0,Completed,No
+ac983711,8923fe,1984,George Orwell,Dystopian,Online,Card,16,14,20,"Buy One, Get One Free",0,Completed,No
+8f871011,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,41,40,0,,0,Completed,No
+53b3d452,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,26,23,0,,0,Completed,No
+e8efaf47,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,48,46,0,,0,Completed,No
+57d8442d,d1c4a4,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,27,24,30,,0,Completed,No
+3390f1f3,3fd9a9,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,50,48,20,"Buy One, Get One Free",0,Completed,No
+b4be0a04,d4bb78,1984,George Orwell,Dystopian,Online,Cash,43,41,20,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+4e677c67,45bed4,The Midnight Library,Matt Haig,Fantasy,Online,Card,9,8,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+f06571d5,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,12,9,0,,0,Completed,No
+16b509fd,46a482,Atomic Habits,James Clear,Self-Help,Online,Card,9,6,30,,0,Completed,No
+92dee7d9,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,29,26,0,,0,Completed,No
+547500ac,b4cbed,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,49,47,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+93d329fb,aa8f69,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,18,16,20,"Buy One, Get One Free",0,Completed,No
+474a2f04,Guest,1984,George Orwell,Dystopian,In-Store,Cash,17,15,0,,0,Completed,No
+0efe4f42,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,22,19,0,,0,Completed,No
+220ba62c,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,41,39,0,,0,Completed,No
+7b325cb2,d20241,Educated,Tara Westover,Memoir,Online,Card,13,11,20,Earn 2x Reward Points,0,Completed,No
+e8c68c99,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,19,16,0,,0,Completed,No
+b5f39eb1,f4bf68,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,11,8,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+99020da3,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,11,10,0,,0,Completed,No
+0e29f256,d23916,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,30,29,10,Earn 2x Reward Points,0,Completed,No
+183b0003,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,14,11,0,,0,Completed,No
+3889c265,Guest,Educated,Tara Westover,Memoir,In-Store,Card,43,41,0,,0,Completed,No
+ec6113f4,3dc12c,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,31,28,30,Flat 50% Discount,50,Completed,No
+27d24e02,dc3746,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,20,17,30,Flat 50% Discount,50,Completed,No
+7e196a5e,31cd31,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,24,21,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+78b2d2f7,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,17,14,0,,0,Completed,No
+31fac105,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,14,11,0,,0,Completed,No
+9bdc8b79,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,44,42,0,,0,Completed,No
+be028f8d,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,42,41,0,,0,Completed,No
+8f8e6be2,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,35,33,0,,0,Completed,No
+ad6811a0,928b58,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,38,35,30,,0,Completed,No
+41222bb1,13c07c,The Midnight Library,Matt Haig,Fantasy,Online,Card,11,8,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+b5d5a3e6,Guest,1984,George Orwell,Dystopian,In-Store,Cash,40,39,0,,0,Completed,No
+dd983a1e,Guest,1984,George Orwell,Dystopian,In-Store,Cash,19,18,0,,0,Declined (Insufficient Funds),No
+e78143e7,74cac3,1984,George Orwell,Dystopian,Online,Cash,18,15,30,,0,Completed,No
+ab496564,765522,Educated,Tara Westover,Memoir,Online,Online Payment,40,37,30,Flat 50% Discount,50,Completed,No
+afd37ec5,c6147b,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,6,4,20,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+96ee02fb,5037c8,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,32,29,30,,0,Completed,No
+fea7a3a4,d3c8fa,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,30,29,10,,0,Completed,No
+f45ed450,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,22,20,0,,0,Completed,No
+6bf02993,1900cd,Becoming,Michelle Obama,Biography,Online,Card,32,31,10,"Buy One, Get One Free",0,Completed,No
+f1a2eb2a,8d7ab6,Becoming,Michelle Obama,Biography,Online,Card,20,18,20,Earn 2x Reward Points,0,Completed,No
+9da9ef06,585b3b,1984,George Orwell,Dystopian,Online,Online Payment,40,39,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+b733f549,71577f,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,22,21,10,Earn 2x Reward Points,0,Completed,No
+06aad795,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,32,31,0,,0,Declined (Insufficient Funds),No
+ac1a0959,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,42,41,0,,0,Completed,No
+62e764ce,0ca29d,Educated,Tara Westover,Memoir,Online,Card,17,16,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+a85e65e3,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,7,4,0,,0,Completed,Yes
+e0d2bade,95ed09,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,29,28,10,Flat 50% Discount,50,Completed,No
+ef9981a2,Guest,Educated,Tara Westover,Memoir,In-Store,Card,41,40,0,,0,Declined (Insufficient Funds),No
+df86d680,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,10,7,0,,0,Completed,No
+127d348f,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,6,5,0,,0,Completed,No
+c1f75e5d,1651b4,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,37,36,10,Earn 2x Reward Points,0,Completed,No
+c14db908,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,13,11,0,,0,Completed,No
+594c058a,05-Dec-55,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,29,27,20,Earn 2x Reward Points,0,Completed,No
+52e96f7d,67ac8a,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,45,42,30,Flat 50% Discount,50,Completed,No
+06a3f56a,Guest,1984,George Orwell,Dystopian,In-Store,Cash,49,47,0,,0,Declined (Insufficient Funds),No
+693d9565,bf16b7,1984,George Orwell,Dystopian,Online,Cash,16,13,30,Flat 50% Discount,50,Completed,No
+ee4424bd,5f54da,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,36,34,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+a0da9d4f,5042ed,1984,George Orwell,Dystopian,Online,Cash,44,41,30,Flat 50% Discount,50,Completed,No
+979fa4c9,852dfe,The Midnight Library,Matt Haig,Fantasy,Online,Card,37,36,10,Flat 50% Discount,50,Completed,No
+44771603,a37da4,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,24,21,30,"Buy One, Get One Free",0,Completed,No
+b173141d,2f6f74,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,47,44,30,"Buy One, Get One Free",0,Completed,No
+e1a9b434,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,18,17,0,,0,Completed,No
+ea84e937,22034d,Becoming,Michelle Obama,Biography,Online,Card,49,46,30,Earn 2x Reward Points,0,Completed,No
+62f82660,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,48,45,0,,0,Completed,No
+6ce0c68c,e0ebae,Atomic Habits,James Clear,Self-Help,Online,Online Payment,25,23,20,"Buy One, Get One Free",0,Completed,No
+86de2d87,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,28,27,0,,0,Completed,No
+4cf3a76b,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,26,23,0,,0,Completed,No
+43de5d9e,b7316d,Educated,Tara Westover,Memoir,Online,Cash,16,15,10,,0,Completed,No
+8066869f,39906d,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,10,9,10,Flat 50% Discount,50,Completed,No
+356b2780,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,47,45,0,,0,Completed,No
+887d2a35,50064f,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,23,20,30,,0,Completed,No
+392d2404,ad9322,Educated,Tara Westover,Memoir,Online,Cash,29,27,20,Earn 2x Reward Points,0,Completed,No
+840a45ae,1f1f78,Dune,Frank Herbert,Sci-Fi,Online,Card,36,34,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+4efb177e,09f444,Atomic Habits,James Clear,Self-Help,Online,Online Payment,39,37,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+39d47531,7e5d1b,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,15,14,10,,0,Completed,No
+37d46ca8,bac839,Atomic Habits,James Clear,Self-Help,Online,Online Payment,37,35,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+e92d934a,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,6,4,0,,0,Completed,Yes
+32cb52ab,02761b,Educated,Tara Westover,Memoir,Online,Online Payment,17,16,10,Earn 2x Reward Points,0,Completed,No
+73aac5fd,de80be,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,8,6,20,Earn 2x Reward Points,0,Completed,No
+fc9a4f44,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,12,9,0,,0,Completed,No
+a8c57b3e,8.80E+112,1984,George Orwell,Dystopian,Online,Online Payment,45,43,20,Flat 50% Discount,50,Completed,No
+4178e439,c6b4fc,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,16,15,10,Flat 50% Discount,50,Completed,No
+5d1df80f,b606e2,Becoming,Michelle Obama,Biography,Online,Card,44,43,10,Flat 50% Discount,50,Completed,No
+c51c2ff8,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,18,17,0,,0,Declined (Insufficient Funds),No
+c4ca6dc5,b9c2bc,1984,George Orwell,Dystopian,Online,Online Payment,5,4,10,"Buy One, Get One Free",0,Completed,Yes
+52556d3f,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,30,29,0,,0,Completed,No
+e09d3c65,2.89E+27,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,38,37,10,Earn 2x Reward Points,0,Completed,No
+e227d141,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,19,17,0,,0,Completed,No
+ba619781,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,32,30,0,,0,Completed,No
+14368cb8,b76643,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,44,41,30,Earn 2x Reward Points,0,Completed,No
+89be2dbb,e9bc55,Dune,Frank Herbert,Sci-Fi,Online,Card,12,10,20,Flat 50% Discount,50,Completed,No
+6d8f18a4,987493,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,11,9,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+7930b856,be90ff,Becoming,Michelle Obama,Biography,Online,Cash,5,3,20,"Buy One, Get One Free",0,Completed,Yes
+ef85438d,ffbe59,The Midnight Library,Matt Haig,Fantasy,Online,Card,6,4,20,Flat 50% Discount,50,Completed,Yes
+e2ed4d81,e4f227,Atomic Habits,James Clear,Self-Help,Online,Online Payment,5,3,20,"Buy One, Get One Free",0,Completed,Yes
+4a48e210,4.32E+18,Dune,Frank Herbert,Sci-Fi,Online,Cash,24,23,10,Earn 2x Reward Points,0,Completed,No
+2a546531,aab8a0,Dune,Frank Herbert,Sci-Fi,Online,Cash,12,11,10,"Buy One, Get One Free",0,Completed,No
+a8cd84ac,7f94f2,Atomic Habits,James Clear,Self-Help,Online,Card,42,41,10,Earn 2x Reward Points,0,Completed,No
+7854d36a,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,24,21,0,,0,Completed,No
+ade82bea,9c6a4d,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,26,24,20,,0,Completed,No
+49847004,b7caf5,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,32,30,20,"Buy One, Get One Free",0,Completed,No
+46525c5d,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,28,25,0,,0,Completed,No
+7495382,322826,Atomic Habits,James Clear,Self-Help,Online,Card,46,45,10,"Buy One, Get One Free",0,Completed,No
+6851adc9,e7904d,The Midnight Library,Matt Haig,Fantasy,Online,Cash,50,49,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+fa9570d8,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,44,43,0,,0,Completed,No
+7685fd4b,fe1796,Educated,Tara Westover,Memoir,Online,Online Payment,36,33,30,,0,Completed,No
+c18f0896,af850c,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,30,29,10,Flat 50% Discount,50,Completed,No
+f994d3a5,1d60eb,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,33,32,10,,0,Completed,No
+0820abce,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,11,10,0,,0,Completed,No
+aea5ce63,b52b55,Becoming,Michelle Obama,Biography,Online,Cash,12,10,20,Earn 2x Reward Points,0,Completed,No
+60e42836,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,38,35,0,,0,Completed,No
+60884be2,e9c55c,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,35,33,20,"Buy One, Get One Free",0,Completed,No
+5bf590e3,6f2948,Atomic Habits,James Clear,Self-Help,Online,Cash,5,2,30,"Buy One, Get One Free",0,Completed,Yes
+1676381b,7fd69a,Atomic Habits,James Clear,Self-Help,Online,Cash,29,28,10,,0,Completed,No
+a430e297,01b944,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,26,23,30,"Buy One, Get One Free",0,Completed,No
+0753361c,1ee0b4,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,29,28,10,"Buy One, Get One Free",0,Completed,No
+b9c156cd,ec1266,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,14,12,20,Earn 2x Reward Points,0,Completed,No
+eb732c60,04c7be,Atomic Habits,James Clear,Self-Help,Online,Card,43,41,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+eb66cfc1,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,34,31,0,,0,Completed,No
+c24de1c6,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,19,17,0,,0,Completed,No
+12bb967b,f6c63c,Educated,Tara Westover,Memoir,Online,Cash,6,4,20,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+85ed31f2,8d19e9,The Midnight Library,Matt Haig,Fantasy,Online,Cash,40,37,30,"Buy One, Get One Free",0,Completed,No
+7d2d455b,4fe67d,Atomic Habits,James Clear,Self-Help,Online,Card,30,27,30,Earn 2x Reward Points,0,Completed,No
+63d91f3c,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,8,7,0,,0,Completed,No
+5c0adc33,533c09,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,41,39,20,Earn 2x Reward Points,0,Completed,No
+4530781f,9bc302,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,44,43,10,"Buy One, Get One Free",0,Completed,No
+5303569e,70adab,Atomic Habits,James Clear,Self-Help,Online,Online Payment,11,9,20,,0,Completed,No
+7480f8a8,Guest,Educated,Tara Westover,Memoir,In-Store,Card,18,15,0,,0,Completed,No
+a005faf8,b57423,Educated,Tara Westover,Memoir,Online,Online Payment,42,40,20,,0,Completed,No
+55122913,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,49,46,0,,0,Completed,No
+cf39dc14,1e2bfc,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,18,15,30,Flat 50% Discount,50,Completed,No
+fe110873,b153f7,Becoming,Michelle Obama,Biography,Online,Online Payment,37,35,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+4192d0dc,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,13,12,0,,0,Completed,No
+9a8e104f,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,34,32,0,,0,Completed,No
+88a60339,5aba32,Dune,Frank Herbert,Sci-Fi,Online,Cash,13,12,10,Earn 2x Reward Points,0,Completed,No
+f0d1a7b2,d8c06d,The Silent Patient,Alex Michaelides,Thriller,Online,Card,27,24,30,Earn 2x Reward Points,0,Completed,No
+8e824bca,16137c,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,36,34,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+42761119,0d2b02,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,31,29,20,Earn 2x Reward Points,0,Completed,No
+9a4a6a4e,b05a92,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,25,23,20,Flat 50% Discount,50,Completed,No
+a600d11d,780f71,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,9,7,20,"Buy One, Get One Free",0,Completed,No
+49ff336a,fba541,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,13,12,10,Earn 2x Reward Points,0,Completed,No
+c63e27b0,bcc490,Becoming,Michelle Obama,Biography,Online,Online Payment,27,25,20,Earn 2x Reward Points,0,Completed,No
+9d749b8d,Guest,Educated,Tara Westover,Memoir,In-Store,Card,19,18,0,,0,Completed,No
+7786be9f,b168db,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,33,32,10,Earn 2x Reward Points,0,Completed,No
+34cfe2a1,2db52c,The Midnight Library,Matt Haig,Fantasy,Online,Cash,31,30,10,Earn 2x Reward Points,0,Completed,No
+3c4c570f,6c59c4,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,28,26,20,Flat 50% Discount,50,Completed,No
+93b4a27e,3cbef9,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,6,3,30,"Buy One, Get One Free",0,Completed,Yes
+152ae79d,98d156,The Midnight Library,Matt Haig,Fantasy,Online,Cash,42,40,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+7e1e6e01,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,46,44,0,,0,Completed,No
+0e544a5a,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,14,11,0,,0,Completed,No
+7e76e665,21457f,Dune,Frank Herbert,Sci-Fi,Online,Cash,23,22,10,Earn 2x Reward Points,0,Completed,No
+2c96c022,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,20,18,0,,0,Completed,No
+a850dc6a,93d602,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,40,39,10,"Buy One, Get One Free",0,Completed,No
+ff2fac0c,Guest,1984,George Orwell,Dystopian,In-Store,Card,45,43,0,,0,Completed,No
+416b5bb0,636f61,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,15,14,10,"Buy One, Get One Free",0,Completed,No
+35a68345,7fd9d5,Dune,Frank Herbert,Sci-Fi,Online,Cash,12,9,30,,0,Completed,No
+c67b156c,15d959,1984,George Orwell,Dystopian,Online,Card,35,32,30,Earn 2x Reward Points,0,Completed,No
+a177dd64,d86c51,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,35,32,30,Earn 2x Reward Points,0,Completed,No
+b3e28fc6,5c28e7,Educated,Tara Westover,Memoir,Online,Cash,41,38,30,Earn 2x Reward Points,0,Completed,No
+10e79efb,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,18,17,0,,0,Completed,No
+302c60bd,0193b5,Becoming,Michelle Obama,Biography,Online,Online Payment,38,37,10,Earn 2x Reward Points,0,Completed,No
+7373bc54,f4744e,The Silent Patient,Alex Michaelides,Thriller,Online,Card,32,31,10,Flat 50% Discount,50,Completed,No
+f06c27fa,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,27,25,0,,0,Completed,No
+7.16E+117,2a72e8,Becoming,Michelle Obama,Biography,Online,Online Payment,41,40,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+8279df30,7e4350,1984,George Orwell,Dystopian,Online,Cash,18,17,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+aadf1999,a9e9d0,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,30,28,20,,0,Completed,No
+d7a105d2,a7e908,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,35,33,20,Flat 50% Discount,50,Completed,No
+e9dff124,10b757,Becoming,Michelle Obama,Biography,Online,Online Payment,31,29,20,,0,Declined (Insufficient Funds),No
+f88ed11a,867ee2,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,8,7,10,,0,Completed,No
+24e19c4f,95bb0b,The Silent Patient,Alex Michaelides,Thriller,Online,Card,33,32,10,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+491134bc,5d4f6b,1984,George Orwell,Dystopian,Online,Cash,32,31,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+724fb2d6,3a9767,Educated,Tara Westover,Memoir,Online,Card,41,39,20,Flat 50% Discount,50,Completed,No
+1fe9335a,192bcb,1984,George Orwell,Dystopian,Online,Online Payment,32,29,30,"Buy One, Get One Free",0,Completed,No
+a83fdf5f,21a5cc,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,9,7,20,Flat 50% Discount,50,Completed,No
+3cbcde02,9d1f44,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,12,10,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+193c7968,24fddb,Becoming,Michelle Obama,Biography,Online,Cash,49,46,30,,0,Completed,No
+7448532,858013,Dune,Frank Herbert,Sci-Fi,Online,Cash,14,13,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+8df10be7,3884db,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,28,26,20,Flat 50% Discount,50,Completed,No
+5e97367b,120061,Educated,Tara Westover,Memoir,Online,Online Payment,50,47,30,,0,Completed,No
+cc979520,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,12,10,0,,0,Completed,No
+460a9b6d,4fe65a,Atomic Habits,James Clear,Self-Help,Online,Online Payment,22,20,20,Flat 50% Discount,50,Completed,No
+f53f4cf9,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,30,28,0,,0,Completed,No
+54347a55,c1e772,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,37,36,10,Earn 2x Reward Points,0,Completed,No
+bba533c7,d6e6ad,The Midnight Library,Matt Haig,Fantasy,Online,Cash,11,9,20,,0,Completed,No
+3fd44bb2,851fb2,Becoming,Michelle Obama,Biography,Online,Online Payment,39,36,30,Flat 50% Discount,50,Completed,No
+ad169a87,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,38,36,0,,0,Completed,No
+65941ed4,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,24,21,0,,0,Completed,No
+0f82845a,7c5ca6,Atomic Habits,James Clear,Self-Help,Online,Online Payment,46,43,30,,0,Completed,No
+de7fbe00,b77113,The Midnight Library,Matt Haig,Fantasy,Online,Card,11,8,30,Earn 2x Reward Points,0,Completed,No
+d536738c,40c7b1,Educated,Tara Westover,Memoir,Online,Online Payment,21,19,20,Flat 50% Discount,50,Completed,No
+2f2a3e43,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,41,38,0,,0,Completed,No
+743ac3bf,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,22,20,0,,0,Completed,No
+45719d07,a11c59,The Midnight Library,Matt Haig,Fantasy,Online,Card,50,48,20,,0,Completed,No
+015bf52c,e95c86,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,31,29,20,,0,Completed,No
+40ba9260,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,28,27,0,,0,Completed,No
+1f0e046e,6502c9,Atomic Habits,James Clear,Self-Help,Online,Cash,41,38,30,,0,Completed,No
+1bec2826,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,50,48,0,,0,Completed,No
+13943f1a,b54d54,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,27,25,20,,0,Completed,No
+dbab6767,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,18,15,0,,0,Completed,No
+60563458,acedda,Atomic Habits,James Clear,Self-Help,Online,Online Payment,46,45,10,"Buy One, Get One Free",0,Completed,No
+f8b3d905,fe37cb,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,31,30,10,"Buy One, Get One Free",0,Completed,No
+42ee1fae,c56572,Dune,Frank Herbert,Sci-Fi,Online,Card,36,34,20,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+8af7cfe1,ba7eb3,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,45,44,10,,0,Completed,No
+7b6f7ee9,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Online Payment,10,7,0,,0,Completed,No
+97d7c8eb,0161d9,Atomic Habits,James Clear,Self-Help,Online,Card,10,7,30,"Buy One, Get One Free",0,Completed,No
+a801c5ed,eb743c,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,31,30,10,,0,Completed,No
+8471533c,c595c7,Becoming,Michelle Obama,Biography,Online,Cash,30,29,10,"Buy One, Get One Free",0,Completed,No
+f2b4c461,316945,The Silent Patient,Alex Michaelides,Thriller,Online,Card,17,14,30,,0,Completed,No
+122b82e2,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,18,16,0,,0,Completed,No
+c0fc2e2b,ee4957,Dune,Frank Herbert,Sci-Fi,Online,Card,28,25,30,Flat 50% Discount,50,Completed,No
+7f8dea5d,9ec31c,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,45,44,10,Earn 2x Reward Points,0,Completed,No
+1ecbf934,799831,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,41,39,20,Flat 50% Discount,50,Completed,No
+d444eda9,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Online Payment,22,20,0,,0,Completed,No
+3dc1af04,41dcbb,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,21,19,20,,0,Completed,No
+a86cf505,611d53,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,21,18,30,Earn 2x Reward Points,0,Completed,No
+d6878614,a0fb2c,Dune,Frank Herbert,Sci-Fi,Online,Cash,45,44,10,"Buy One, Get One Free",0,Completed,No
+bcf998ad,06f901,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,26,25,10,Earn 2x Reward Points,0,Completed,No
+c5540a5c,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,35,32,0,,0,Completed,No
+0dfcf3a0,d74239,Atomic Habits,James Clear,Self-Help,Online,Cash,49,46,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+f08cb3e1,39651a,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,11,9,20,"Buy One, Get One Free",0,Completed,No
+8c028d3c,421019,Atomic Habits,James Clear,Self-Help,Online,Card,37,36,10,,0,Completed,No
+3ead2cb2,59ad44,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,22,19,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+acdd4343,90cb0d,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,26,25,10,Flat 50% Discount,50,Completed,No
+43b5fc9c,8d3887,1984,George Orwell,Dystopian,Online,Card,40,39,10,Earn 2x Reward Points,0,Completed,No
+05f636bf,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,20,17,0,,0,Completed,No
+21f671fb,ef124a,Atomic Habits,James Clear,Self-Help,Online,Cash,19,18,10,Flat 50% Discount,50,Completed,No
+7f18619c,e27c88,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,9,7,20,Earn 2x Reward Points,0,Completed,No
+7345c519,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,11,9,0,,0,Completed,No
+e20bdb89,f8dec8,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,40,37,30,"Buy One, Get One Free",0,Completed,No
+d1cff975,662548,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,48,46,20,Flat 50% Discount,50,Completed,No
+0232c8b0,0f3956,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,16,15,10,Flat 50% Discount,50,Completed,No
+e9426f3d,95bc40,Becoming,Michelle Obama,Biography,Online,Online Payment,22,19,30,,0,Completed,No
+4a677575,65acc6,1984,George Orwell,Dystopian,Online,Online Payment,13,11,20,,0,Completed,No
+25c91bf8,ea1f54,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,33,30,30,Flat 50% Discount,50,Completed,No
+8d70d31e,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,27,24,0,,0,Completed,No
+87698547,345c55,The Silent Patient,Alex Michaelides,Thriller,Online,Card,14,13,10,Flat 50% Discount,50,Completed,No
+4131e1dc,Guest,1984,George Orwell,Dystopian,In-Store,Cash,31,29,0,,0,Completed,No
+fc615ec2,4c0195,Atomic Habits,James Clear,Self-Help,Online,Cash,28,26,20,,0,Completed,No
+c7ef50f5,48a431,1984,George Orwell,Dystopian,Online,Card,23,21,20,"Buy One, Get One Free",0,Completed,No
+0b7f1bde,32f3fd,Atomic Habits,James Clear,Self-Help,Online,Card,25,22,30,"Buy One, Get One Free",0,Completed,No
+d899c095,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,25,24,0,,0,Completed,No
+dd220a26,ef4555,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,37,34,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+adccaff3,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,27,26,0,,0,Completed,No
+a5661fd2,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,41,40,0,,0,Completed,No
+40ea976f,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,37,35,0,,0,Completed,No
+e5193c8c,Guest,Educated,Tara Westover,Memoir,In-Store,Card,37,36,0,,0,Completed,No
+6d6b7a8b,5fe167,Dune,Frank Herbert,Sci-Fi,Online,Card,41,38,30,Earn 2x Reward Points,0,Completed,No
+34ba13aa,fb583e,Educated,Tara Westover,Memoir,Online,Card,46,44,20,Earn 2x Reward Points,0,Completed,No
+27246877,b30732,Atomic Habits,James Clear,Self-Help,Online,Card,14,13,10,Flat 50% Discount,50,Completed,No
+39336d6e,571652,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,28,25,30,"Buy One, Get One Free",0,Completed,No
+c5a89fd1,71182b,Atomic Habits,James Clear,Self-Help,Online,Cash,37,36,10,Flat 50% Discount,50,Completed,No
+ab19f610,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,22,21,0,,0,Completed,No
+0f9c1749,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,33,31,0,,0,Completed,No
+e627122b,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,25,23,0,,0,Completed,No
+3b0c4236,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,29,28,0,,0,Declined (Insufficient Funds),No
+14707f7c,33f2e0,Educated,Tara Westover,Memoir,Online,Online Payment,34,31,30,Flat 50% Discount,50,Completed,No
+c0596dbd,6b8b63,1984,George Orwell,Dystopian,Online,Online Payment,40,39,10,Flat 50% Discount,50,Completed,No
+b968e66a,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,11,8,0,,0,Completed,No
+7c48e707,400fd5,The Midnight Library,Matt Haig,Fantasy,Online,Cash,40,39,10,"Buy One, Get One Free",0,Completed,No
+93588cfe,f47399,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,30,28,20,"Buy One, Get One Free",0,Completed,No
+6251075b,180cc9,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,31,30,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+25a1340d,9dadc4,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,6,3,30,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+92429db4,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,39,38,0,,0,Completed,No
+2c12b4e6,0679d7,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,19,16,30,,0,Completed,No
+1787fa41,5363fa,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,45,42,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+805f081d,6b4c52,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,45,42,30,Flat 50% Discount,50,Completed,No
+19e2d223,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,44,42,0,,0,Completed,No
+d560346f,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,44,41,0,,0,Completed,No
+ef455a45,34e0f8,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,19,16,30,Earn 2x Reward Points,0,Completed,No
+611f79a2,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,9,6,0,,0,Completed,No
+a577e29d,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,39,37,0,,0,Completed,No
+73876178,90dbfc,The Midnight Library,Matt Haig,Fantasy,Online,Card,7,4,30,,0,Completed,Yes
+de99eed2,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,47,46,0,,0,Completed,No
+22385260,193176,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,12,9,30,Earn 2x Reward Points,0,Completed,No
+7391538,12dea4,Dune,Frank Herbert,Sci-Fi,Online,Card,41,38,30,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+641c120e,Guest,1984,George Orwell,Dystopian,In-Store,Cash,16,15,0,,0,Completed,No
+492829dd,43873e,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,12,10,20,"Buy One, Get One Free",0,Completed,No
+2db0dd41,941784,Becoming,Michelle Obama,Biography,Online,Online Payment,29,26,30,,0,Completed,No
+911fd4c2,46b3bb,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,45,43,20,Earn 2x Reward Points,0,Completed,No
+fd9e3f23,458d01,Becoming,Michelle Obama,Biography,Online,Cash,29,27,20,,0,Completed,No
+e0645f4e,5d8ed2,Dune,Frank Herbert,Sci-Fi,Online,Cash,7,4,30,Flat 50% Discount,50,Completed,Yes
+d109e458,f65bef,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,18,17,10,,0,Completed,No
+f231c4f6,8c9ad9,Educated,Tara Westover,Memoir,Online,Card,36,35,10,Earn 2x Reward Points,0,Completed,No
+7edc9d40,e77a7f,The Midnight Library,Matt Haig,Fantasy,Online,Cash,38,37,10,,0,Completed,No
+37db57b6,5d7e7a,Becoming,Michelle Obama,Biography,Online,Online Payment,47,44,30,Earn 2x Reward Points,0,Completed,No
+5051fdbf,01412d,1984,George Orwell,Dystopian,Online,Online Payment,45,43,20,,0,Completed,No
+4cd3412f,454648,Educated,Tara Westover,Memoir,Online,Cash,39,38,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+c0a1c330,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,30,27,0,,0,Completed,No
+a53430be,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,24,21,0,,0,Completed,No
+692499f4,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,47,45,0,,0,Completed,No
+9c94a9c1,47fff6,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,42,41,10,"Buy One, Get One Free",0,Completed,No
+aec01dab,15ff7f,The Midnight Library,Matt Haig,Fantasy,Online,Card,36,33,30,"Buy One, Get One Free",0,Completed,No
+f4283c35,e96b41,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,36,33,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+9b3115b8,c89363,Becoming,Michelle Obama,Biography,Online,Online Payment,49,47,20,Earn 2x Reward Points,0,Completed,No
+baa1d291,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,28,27,0,,0,Completed,No
+656b1304,7ef998,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,22,21,10,Earn 2x Reward Points,0,Completed,No
+3ee31978,f8152b,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,43,40,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+00f87fff,19d6f8,Educated,Tara Westover,Memoir,Online,Cash,33,32,10,Flat 50% Discount,50,Completed,No
+7d986fea,bb9b65,Educated,Tara Westover,Memoir,Online,Online Payment,19,16,30,"Buy One, Get One Free",0,Completed,No
+ea9a6de9,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,41,39,0,,0,Completed,No
+4ceae3d9,d221fd,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,47,45,20,Flat 50% Discount,50,Completed,No
+04b9eedf,e13315,Atomic Habits,James Clear,Self-Help,Online,Online Payment,6,5,10,"Buy One, Get One Free",0,Completed,No
+5b096a46,bc4e3b,Becoming,Michelle Obama,Biography,Online,Cash,17,14,30,Flat 50% Discount,50,Completed,No
+d55eee3c,bd7780,Atomic Habits,James Clear,Self-Help,Online,Card,21,20,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+2282ec79,e12abc,Atomic Habits,James Clear,Self-Help,Online,Cash,29,27,20,Earn 2x Reward Points,0,Completed,No
+e9a70114,e19c80,Dune,Frank Herbert,Sci-Fi,Online,Cash,36,33,30,Earn 2x Reward Points,0,Completed,No
+4c0390c3,df5b44,Educated,Tara Westover,Memoir,Online,Cash,22,21,10,"Buy One, Get One Free",0,Completed,No
+e59c98b0,691fa8,1984,George Orwell,Dystopian,Online,Online Payment,40,37,30,Earn 2x Reward Points,0,Completed,No
+47a62456,8a76d4,1984,George Orwell,Dystopian,Online,Online Payment,40,38,20,"Buy One, Get One Free",0,Completed,No
+21480a4c,d7d926,The Midnight Library,Matt Haig,Fantasy,Online,Cash,14,12,20,Flat 50% Discount,50,Completed,No
+2f51a525,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,50,48,0,,0,Completed,No
+c179b16d,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,47,46,0,,0,Completed,No
+acfc6be8,f843e1,1984,George Orwell,Dystopian,Online,Card,24,21,30,"Buy One, Get One Free",0,Completed,No
+1fe3b331,e74e96,Dune,Frank Herbert,Sci-Fi,Online,Cash,7,5,20,"Buy One, Get One Free",0,Completed,No
+227745c4,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Online Payment,42,39,0,,0,Completed,No
+9c2b0051,6e1c93,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,6,4,20,Flat 50% Discount,50,Completed,Yes
+8e3d2ae2,98fca1,The Silent Patient,Alex Michaelides,Thriller,Online,Card,41,38,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+70d17c2e,8a300c,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,38,35,30,Flat 50% Discount,50,Completed,No
+b436ba69,4ef6dd,Atomic Habits,James Clear,Self-Help,Online,Card,42,40,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+8063de9b,Guest,1984,George Orwell,Dystopian,In-Store,Card,7,4,0,,0,Completed,Yes
+90e93313,888699,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,18,17,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+364827d6,41e17f,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,19,18,10,,0,Completed,No
+d584ca8a,9d4b76,Educated,Tara Westover,Memoir,Online,Online Payment,33,30,30,,0,Completed,No
+56036c3d,8dbb5c,Atomic Habits,James Clear,Self-Help,Online,Card,35,33,20,Flat 50% Discount,50,Completed,No
+64225e3d,d7caa7,Becoming,Michelle Obama,Biography,Online,Online Payment,23,21,20,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+6561301c,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,28,25,0,,0,Completed,No
+856a69ba,50c23a,Becoming,Michelle Obama,Biography,Online,Online Payment,15,12,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+2b2ca07e,9b5969,Becoming,Michelle Obama,Biography,Online,Card,15,13,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+8d02659e,29271c,Dune,Frank Herbert,Sci-Fi,Online,Card,8,5,30,,0,Completed,No
+ccdc4444,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,34,31,0,,0,Completed,No
+fb00d66c,1acaaa,The Midnight Library,Matt Haig,Fantasy,Online,Card,47,45,20,,0,Completed,No
+bff79e9c,1ee6f0,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,39,38,10,,0,Completed,No
+3.01E+05,Guest,1984,George Orwell,Dystopian,In-Store,Cash,8,6,0,,0,Completed,No
+f19224be,b87b9b,Educated,Tara Westover,Memoir,Online,Online Payment,24,21,30,"Buy One, Get One Free",0,Completed,No
+a0eed011,26fec5,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,8,6,20,,0,Completed,No
+36595d1d,c6cf67,Atomic Habits,James Clear,Self-Help,Online,Card,28,26,20,Flat 50% Discount,50,Completed,No
+73cc3170,f8dca5,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,25,23,20,,0,Completed,No
+16fb4298,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,22,19,0,,0,Completed,No
+5eb6ee98,9f8f87,Dune,Frank Herbert,Sci-Fi,Online,Cash,49,46,30,Earn 2x Reward Points,0,Completed,No
+b1aed0f9,ff734e,The Midnight Library,Matt Haig,Fantasy,Online,Cash,6,3,30,Earn 2x Reward Points,0,Completed,Yes
+5f2aced2,e247d2,Dune,Frank Herbert,Sci-Fi,Online,Cash,41,39,20,,0,Completed,No
+b3c1af67,88e0e2,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,28,26,20,Flat 50% Discount,50,Completed,No
+6.87E+42,0ca9bb,Educated,Tara Westover,Memoir,Online,Online Payment,34,31,30,Earn 2x Reward Points,0,Completed,No
+e73a0f2d,33f323,Educated,Tara Westover,Memoir,Online,Cash,20,17,30,,0,Completed,No
+6ee479e9,a96d0d,1984,George Orwell,Dystopian,Online,Online Payment,36,33,30,Earn 2x Reward Points,0,Completed,No
+38cc6197,7870cb,Dune,Frank Herbert,Sci-Fi,Online,Cash,38,35,30,,0,Completed,No
+cb9390fb,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,39,36,0,,0,Completed,No
+dcb5a1c0,d0cdba,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,24,22,20,,0,Completed,No
+8eb1f3b1,69c9f2,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,15,12,30,,0,Completed,No
+50da0a88,46636a,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,28,27,10,Flat 50% Discount,50,Completed,No
+d313f1af,e723cb,Becoming,Michelle Obama,Biography,Online,Card,25,22,30,Earn 2x Reward Points,0,Completed,No
+02f61043,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,9,6,0,,0,Completed,No
+5.74E+09,eaa148,The Silent Patient,Alex Michaelides,Thriller,Online,Card,41,38,30,Flat 50% Discount,50,Completed,No
+408fedc0,4f4db1,Educated,Tara Westover,Memoir,Online,Online Payment,13,12,10,"Buy One, Get One Free",0,Completed,No
+ae52c5cf,76aff7,Atomic Habits,James Clear,Self-Help,Online,Card,43,41,20,Earn 2x Reward Points,0,Completed,No
+dc8296c1,d84156,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,36,34,20,,0,Completed,No
+9ef19633,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,44,42,0,,0,Completed,No
+fc3f9da4,Guest,Educated,Tara Westover,Memoir,In-Store,Card,28,27,0,,0,Completed,No
+780b41ff,12f898,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,8,5,30,,0,Completed,No
+8d0ef8ca,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,18,16,0,,0,Completed,No
+0fc6cd45,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,12,9,0,,0,Completed,No
+c5ba8ad0,ce0982,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,44,43,10,,0,Completed,No
+03a51827,91814e,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,37,36,10,,0,Declined (Insufficient Funds),No
+9a988f01,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,18,15,0,,0,Completed,No
+6d805fc7,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,36,35,0,,0,Completed,No
+f40d4d9c,dba54a,Becoming,Michelle Obama,Biography,Online,Cash,38,37,10,Earn 2x Reward Points,0,Completed,No
+6fd356bb,49aae1,The Midnight Library,Matt Haig,Fantasy,Online,Cash,29,27,20,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+73ce25aa,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,42,39,0,,0,Completed,No
+44a9f550,8f3295,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,36,34,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+5b80930d,7e3f7b,1984,George Orwell,Dystopian,Online,Card,9,8,10,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+f5c72f59,0a3a67,Becoming,Michelle Obama,Biography,Online,Online Payment,28,26,20,Earn 2x Reward Points,0,Completed,No
+96c9346e,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,31,29,0,,0,Completed,No
+5bc51e0c,6f1fc8,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,48,46,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+7dd0547e,a00e1e,Becoming,Michelle Obama,Biography,Online,Card,36,34,20,Earn 2x Reward Points,0,Completed,No
+e032876c,9e8025,Atomic Habits,James Clear,Self-Help,Online,Cash,13,12,10,Earn 2x Reward Points,0,Completed,No
+bb8eed0b,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,21,19,0,,0,Completed,No
+bff90b58,da56f7,The Midnight Library,Matt Haig,Fantasy,Online,Card,38,37,10,"Buy One, Get One Free",0,Completed,No
+0c827f2e,b3c41e,Atomic Habits,James Clear,Self-Help,Online,Card,43,40,30,Earn 2x Reward Points,0,Completed,No
+32a54c71,d2c9e2,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,44,42,20,"Buy One, Get One Free",0,Completed,No
+c91afbb5,83b1af,1984,George Orwell,Dystopian,Online,Card,16,13,30,Flat 50% Discount,50,Completed,No
+722fde58,0b6449,Dune,Frank Herbert,Sci-Fi,Online,Card,34,33,10,,0,Declined (Insufficient Funds),No
+9.21E+52,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,37,36,0,,0,Completed,No
+d9e4e51f,82547b,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,38,37,10,"Buy One, Get One Free",0,Completed,No
+e1dda6f9,292bb0,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,9,6,30,Earn 2x Reward Points,0,Completed,No
+beb78c06,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,49,46,0,,0,Completed,No
+ffd3fcce,d477d1,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,19,17,20,,0,Completed,No
+72a9047e,cc6373,Becoming,Michelle Obama,Biography,Online,Cash,36,34,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+02cb064f,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,15,13,0,,0,Completed,No
+82c32650,243cae,1984,George Orwell,Dystopian,Online,Online Payment,33,30,30,Flat 50% Discount,50,Completed,No
+c61c6eb4,878dbc,1984,George Orwell,Dystopian,Online,Card,19,16,30,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+112b2ead,ce768a,The Silent Patient,Alex Michaelides,Thriller,Online,Card,42,41,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+1f9d0bd1,916566,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,7,4,30,Earn 2x Reward Points,0,Completed,Yes
+d7104112,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,12,9,0,,0,Completed,No
+4497789,a7caf8,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,29,28,10,,0,Completed,No
+98a11bcc,766d7f,Becoming,Michelle Obama,Biography,Online,Card,42,39,30,Earn 2x Reward Points,0,Completed,No
+95f39768,0bc7a1,Becoming,Michelle Obama,Biography,Online,Cash,48,45,30,,0,Completed,No
+89cad58a,Guest,Educated,Tara Westover,Memoir,In-Store,Card,17,15,0,,0,Completed,No
+85c42719,186043,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,23,22,10,Earn 2x Reward Points,0,Completed,No
+034f2e67,35302b,Atomic Habits,James Clear,Self-Help,Online,Card,39,37,20,Earn 2x Reward Points,0,Completed,No
+7821d80f,f2ad5f,1984,George Orwell,Dystopian,Online,Online Payment,20,19,10,Earn 2x Reward Points,0,Completed,No
+869d7e7c,0de465,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,40,39,10,"Buy One, Get One Free",0,Completed,No
+e10155a6,021bab,Becoming,Michelle Obama,Biography,Online,Card,37,36,10,Earn 2x Reward Points,0,Completed,No
+5861fb71,930756,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,47,45,20,,0,Completed,No
+4bd6a723,b17d57,Becoming,Michelle Obama,Biography,Online,Card,18,15,30,"Buy One, Get One Free",0,Completed,No
+c7f60f1c,ae4190,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,38,36,20,Earn 2x Reward Points,0,Completed,No
+6a3e8547,b7a36b,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,49,47,20,Earn 2x Reward Points,0,Completed,No
+5aa73ac8,543882,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,31,29,20,Earn 2x Reward Points,0,Completed,No
+1ca11ea9,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,21,18,0,,0,Completed,No
+88686084,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,43,40,0,,0,Completed,No
+7a9c7f02,a2a0be,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,28,26,20,,0,Declined (Insufficient Funds),No
+6e17adaf,31491c,Atomic Habits,James Clear,Self-Help,Online,Card,15,14,10,Flat 50% Discount,50,Completed,No
+4eb93842,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,50,48,0,,0,Completed,No
+cdecff2e,14ef3c,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,42,39,30,,0,Completed,No
+8ea6bf84,1ec6c1,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,49,48,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+45fa70a2,3d91b6,1984,George Orwell,Dystopian,Online,Online Payment,38,35,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+0536e3ed,d357c5,Atomic Habits,James Clear,Self-Help,Online,Online Payment,41,40,10,,0,Completed,No
+7a3e647a,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,46,43,0,,0,Completed,No
+7f8aa116,7fc404,Becoming,Michelle Obama,Biography,Online,Cash,22,20,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+ce5be518,38b27d,1984,George Orwell,Dystopian,Online,Cash,32,31,10,"Buy One, Get One Free",0,Completed,No
+5.27E+11,87604a,Educated,Tara Westover,Memoir,Online,Cash,27,26,10,Earn 2x Reward Points,0,Completed,No
+5abd3b82,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,48,45,0,,0,Completed,No
+11f692dd,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,20,17,0,,0,Completed,No
+d307f091,Guest,1984,George Orwell,Dystopian,In-Store,Card,24,23,0,,0,Completed,No
+f2dc5897,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,25,24,0,,0,Completed,No
+0ad29f6c,4133ce,Atomic Habits,James Clear,Self-Help,Online,Cash,27,26,10,,0,Completed,No
+ca62b9bc,103684,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,12,9,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+f0b7eeec,19c37d,Atomic Habits,James Clear,Self-Help,Online,Cash,44,41,30,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+b6d7c889,74d54f,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,24,22,20,Flat 50% Discount,50,Completed,No
+3cdd19cf,876ba1,1984,George Orwell,Dystopian,Online,Online Payment,14,13,10,"Buy One, Get One Free",0,Completed,No
+ed1005ae,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,49,47,0,,0,Completed,No
+97e88a9c,741d42,Atomic Habits,James Clear,Self-Help,Online,Card,28,26,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+e8925c12,0b08fd,Becoming,Michelle Obama,Biography,Online,Card,34,32,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+d394866c,58f003,Becoming,Michelle Obama,Biography,Online,Card,45,43,20,,0,Completed,No
+b4223e62,6e020c,The Midnight Library,Matt Haig,Fantasy,Online,Cash,9,6,30,"Buy One, Get One Free",0,Completed,No
+bed8e27d,e18212,The Silent Patient,Alex Michaelides,Thriller,Online,Card,13,11,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+5010ca09,de99a6,Atomic Habits,James Clear,Self-Help,Online,Card,23,22,10,"Buy One, Get One Free",0,Completed,No
+f61d4b95,e8f1c5,Educated,Tara Westover,Memoir,Online,Cash,46,45,10,"Buy One, Get One Free",0,Completed,No
+6724d250,1c9886,1984,George Orwell,Dystopian,Online,Card,49,47,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+238b04f9,d129bb,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,38,36,20,Earn 2x Reward Points,0,Completed,No
+1e3bfe9b,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,43,40,0,,0,Completed,No
+90490ad2,f26158,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,31,29,20,,0,Completed,No
+f4ecf9b0,72808,Educated,Tara Westover,Memoir,Online,Cash,18,15,30,"Buy One, Get One Free",0,Completed,No
+17175780,0e1ab9,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,34,32,20,"Buy One, Get One Free",0,Completed,No
+9b1406c5,0abb97,Educated,Tara Westover,Memoir,Online,Online Payment,32,30,20,Earn 2x Reward Points,0,Completed,No
+0299f1f3,8db370,The Midnight Library,Matt Haig,Fantasy,Online,Card,26,23,30,Earn 2x Reward Points,0,Completed,No
+a8cc85fc,02cd30,Atomic Habits,James Clear,Self-Help,Online,Online Payment,25,23,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+66ab2dee,91762,1984,George Orwell,Dystopian,Online,Online Payment,5,2,30,"Buy One, Get One Free",0,Completed,Yes
+70ca24cf,c569a1,The Midnight Library,Matt Haig,Fantasy,Online,Cash,24,21,30,Earn 2x Reward Points,0,Completed,No
+ddc6585c,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,37,36,0,,0,Completed,No
+cda5449c,c5994a,1984,George Orwell,Dystopian,Online,Cash,30,28,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+226f44ac,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,14,11,0,,0,Completed,No
+d0db6deb,21f602,Becoming,Michelle Obama,Biography,Online,Cash,35,33,20,"Buy One, Get One Free",0,Completed,No
+055c990b,fe9f02,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,48,45,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+f0b28d70,019cec,Educated,Tara Westover,Memoir,Online,Card,17,16,10,"Buy One, Get One Free",0,Completed,No
+2931f3e9,f39799,Atomic Habits,James Clear,Self-Help,Online,Online Payment,13,10,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+eb357901,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,26,23,0,,0,Completed,No
+fa1da979,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,44,42,0,,0,Completed,No
+0bac1628,4222cb,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,45,43,20,Flat 50% Discount,50,Completed,No
+2368e6be,f7b0e3,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,35,33,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+fffd5880,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,48,46,0,,0,Completed,No
+1458e8b9,cbbd57,Becoming,Michelle Obama,Biography,Online,Cash,33,30,30,"Buy One, Get One Free",0,Completed,No
+83ae211f,9d214c,Becoming,Michelle Obama,Biography,Online,Card,25,22,30,,0,Completed,No
+af6a82ff,f13130,1984,George Orwell,Dystopian,Online,Cash,23,21,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+9f990f3a,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,12,10,0,,0,Completed,No
+c3a88adc,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,6,4,0,,0,Completed,Yes
+35be4e43,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,35,33,0,,0,Completed,No
+d1964cf0,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,26,25,0,,0,Completed,No
+740ca121,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,25,22,0,,0,Completed,No
+0a8f2a7b,f85087,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,6,3,30,Earn 2x Reward Points,0,Completed,Yes
+a1760735,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,43,41,0,,0,Completed,No
+e0ad34f0,bcb224,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,48,46,20,Earn 2x Reward Points,0,Completed,No
+1b06da22,424b64,Dune,Frank Herbert,Sci-Fi,Online,Cash,31,29,20,"Buy One, Get One Free",0,Completed,No
+58ce952d,774904,Becoming,Michelle Obama,Biography,Online,Card,18,17,10,,0,Completed,No
+46eb77d4,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,14,12,0,,0,Completed,No
+fd361738,Guest,1984,George Orwell,Dystopian,In-Store,Cash,34,31,0,,0,Completed,No
+537fa3a0,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,12,10,0,,0,Completed,No
+2be67175,70a9d6,Atomic Habits,James Clear,Self-Help,Online,Cash,50,49,10,Earn 2x Reward Points,0,Completed,No
+7694eb12,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Online Payment,23,20,0,,0,Completed,No
+9fcfcd0f,e79aaa,The Midnight Library,Matt Haig,Fantasy,Online,Cash,23,21,20,Flat 50% Discount,50,Completed,No
+e787664b,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,47,46,0,,0,Completed,No
+4dc44008,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,49,47,0,,0,Completed,No
+72eab6b1,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,22,21,0,,0,Completed,No
+bce56c5d,b5e2cd,Dune,Frank Herbert,Sci-Fi,Online,Cash,39,36,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+d4acb579,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,42,39,0,,0,Completed,No
+79e5c010,c16750,Becoming,Michelle Obama,Biography,Online,Online Payment,8,5,30,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+cd5b4a08,610585,The Silent Patient,Alex Michaelides,Thriller,Online,Card,20,18,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+f53bebf4,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,6,3,0,,0,Completed,Yes
+3babac45,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,36,34,0,,0,Declined (Insufficient Funds),No
+0d930858,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,31,29,0,,0,Completed,No
+79c52b16,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,9,8,0,,0,Completed,No
+c3c1f613,0049ed,The Midnight Library,Matt Haig,Fantasy,Online,Cash,40,38,20,"Buy One, Get One Free",0,Completed,No
+9bfee144,6a013d,Educated,Tara Westover,Memoir,Online,Online Payment,17,14,30,"Buy One, Get One Free",0,Completed,No
+035bc42f,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,49,48,0,,0,Completed,No
+e4ef9700,71adbf,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,13,10,30,"Buy One, Get One Free",0,Completed,No
+5433f10a,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,19,16,0,,0,Completed,No
+843804ac,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,48,45,0,,0,Completed,No
+0c504dec,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,44,42,0,,0,Completed,No
+a8a49f46,f5eac9,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,24,22,20,Earn 2x Reward Points,0,Completed,No
+c68a38b3,ce4987,Atomic Habits,James Clear,Self-Help,Online,Online Payment,50,47,30,"Buy One, Get One Free",0,Completed,No
+8b3e18ff,f62c21,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,8,5,30,Flat 50% Discount,50,Declined (Insufficient Funds),No
+4.03E+13,e441dc,Dune,Frank Herbert,Sci-Fi,Online,Card,34,33,10,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+73ea4cf8,243344,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,17,16,10,Earn 2x Reward Points,0,Completed,No
+43dbcbed,5548a9,The Silent Patient,Alex Michaelides,Thriller,Online,Card,5,2,30,"Buy One, Get One Free",0,Completed,Yes
+fa53b3d8,Guest,1984,George Orwell,Dystopian,In-Store,Cash,18,15,0,,0,Completed,No
+c501abbf,f56c90,Becoming,Michelle Obama,Biography,Online,Cash,33,30,30,"Buy One, Get One Free",0,Completed,No
+e3dc7e0a,Guest,1984,George Orwell,Dystopian,In-Store,Cash,39,38,0,,0,Completed,No
+cbefb5c9,b4ca41,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,22,21,10,Earn 2x Reward Points,0,Completed,No
+2a5e5643,d0ec9b,The Silent Patient,Alex Michaelides,Thriller,Online,Card,28,25,30,Flat 50% Discount,50,Completed,No
+7582d983,58f9d8,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,38,36,20,Flat 50% Discount,50,Completed,No
+9d56ee79,b52129,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,11,10,10,,0,Completed,No
+9085b9e7,8d2b05,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,9,6,30,Flat 50% Discount,50,Completed,No
+2449e8bc,4b493f,Dune,Frank Herbert,Sci-Fi,Online,Cash,8,7,10,"Buy One, Get One Free",0,Completed,No
+6f7f6cfd,4661ab,The Silent Patient,Alex Michaelides,Thriller,Online,Card,20,18,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+7f5e3752,23799c,Atomic Habits,James Clear,Self-Help,Online,Cash,17,15,20,Flat 50% Discount,50,Completed,No
+28400aab,e418fa,1984,George Orwell,Dystopian,Online,Card,31,29,20,,0,Completed,No
+98248d17,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,11,9,0,,0,Completed,No
+85b63d1d,5a8ae7,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,49,47,20,"Buy One, Get One Free",0,Completed,No
+f811ed11,743da1,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,39,36,30,"Buy One, Get One Free",0,Completed,No
+72d890f2,51555e,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,23,20,30,,0,Completed,No
+c57e8634,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,46,44,0,,0,Completed,No
+c9361d2c,eccd20,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,47,45,20,Earn 2x Reward Points,0,Completed,No
+d661d1be,8558ea,1984,George Orwell,Dystopian,Online,Online Payment,5,2,30,Flat 50% Discount,50,Completed,Yes
+c064a6b4,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,9,8,0,,0,Completed,No
+bb0b4bc9,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,32,29,0,,0,Completed,No
+22d81e91,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,14,13,0,,0,Completed,No
+359ce8d6,3d2d8b,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,16,13,30,,0,Completed,No
+5d88de50,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,46,44,0,,0,Completed,No
+72788736,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,50,47,0,,0,Completed,No
+00dcbd3f,fb3245,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,9,6,30,,0,Completed,No
+0f1ed11a,11137b,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,46,45,10,Flat 50% Discount,50,Completed,No
+b2fedfd2,67ee8d,1984,George Orwell,Dystopian,Online,Cash,37,36,10,"Buy One, Get One Free",0,Completed,No
+6aaab060,22c5b8,Becoming,Michelle Obama,Biography,Online,Cash,17,16,10,Flat 50% Discount,50,Completed,No
+74400501,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,17,15,0,,0,Completed,No
+49240b74,db2cfc,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,48,46,20,Flat 50% Discount,50,Declined (Insufficient Funds),No
+f0091026,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,50,48,0,,0,Completed,No
+8ba8dfbb,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,42,40,0,,0,Completed,No
+162b804b,4d4678,1984,George Orwell,Dystopian,Online,Cash,20,18,20,"Buy One, Get One Free",0,Completed,No
+2c3e1fca,586b05,Becoming,Michelle Obama,Biography,Online,Online Payment,32,31,10,Flat 50% Discount,50,Completed,No
+079ce5a2,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,12,10,0,,0,Completed,No
+bf03c1e3,c92e30,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,31,30,10,Earn 2x Reward Points,0,Completed,No
+8115bdaf,df9b5d,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,12,11,10,Flat 50% Discount,50,Completed,No
+3522e9bd,bb7689,Atomic Habits,James Clear,Self-Help,Online,Card,45,44,10,Earn 2x Reward Points,0,Completed,No
+a14c43b8,7ab6f8,Atomic Habits,James Clear,Self-Help,Online,Card,35,32,30,"Buy One, Get One Free",0,Completed,No
+23fc28c9,cc4d0b,Educated,Tara Westover,Memoir,Online,Cash,45,42,30,Earn 2x Reward Points,0,Completed,No
+7e631b88,6e147f,Dune,Frank Herbert,Sci-Fi,Online,Card,46,44,20,,0,Completed,No
+de7cbd4e,8f475a,1984,George Orwell,Dystopian,Online,Card,34,31,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+83e13c67,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,33,31,0,,0,Completed,No
+2797d00a,ef2058,Atomic Habits,James Clear,Self-Help,Online,Online Payment,33,31,20,Flat 50% Discount,50,Declined (Insufficient Funds),No
+7c8b666b,ac5333,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,24,23,10,Flat 50% Discount,50,Completed,No
+f1d4571b,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,11,10,0,,0,Completed,No
+2fb7202b,Guest,1984,George Orwell,Dystopian,In-Store,Cash,21,20,0,,0,Completed,No
+aadfe0f0,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,34,32,0,,0,Completed,No
+ef0d6a73,313ce2,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,39,38,10,Flat 50% Discount,50,Completed,No
+ae850b9e,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,34,31,0,,0,Completed,No
+505518d2,e9315a,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,33,32,10,Earn 2x Reward Points,0,Completed,No
+b9e3e19e,c37889,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,27,26,10,"Buy One, Get One Free",0,Completed,No
+11f1bf65,77de79,The Midnight Library,Matt Haig,Fantasy,Online,Card,8,7,10,,0,Completed,No
+0925d5a8,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,8,5,0,,0,Completed,No
+81730376,271bbe,The Midnight Library,Matt Haig,Fantasy,Online,Card,24,21,30,Earn 2x Reward Points,0,Completed,No
+fe01a909,a152b2,1984,George Orwell,Dystopian,Online,Online Payment,41,38,30,Flat 50% Discount,50,Completed,No
+8e5d8d0a,5ebf7d,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,47,46,10,Earn 2x Reward Points,0,Completed,No
+126ea9df,d6b9ac,Dune,Frank Herbert,Sci-Fi,Online,Card,42,41,10,Earn 2x Reward Points,0,Completed,No
+6d1abc6d,dcbc8f,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,19,16,30,Earn 2x Reward Points,0,Completed,No
+b9cc75d5,7b0ea1,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,36,35,10,Flat 50% Discount,50,Completed,No
+2d240f75,0f17ac,Dune,Frank Herbert,Sci-Fi,Online,Cash,15,13,20,Earn 2x Reward Points,0,Completed,No
+7d7412c0,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,9,8,0,,0,Completed,No
+f591e550,29beff,The Midnight Library,Matt Haig,Fantasy,Online,Cash,14,13,10,,0,Completed,No
+ad2dbd13,dc358a,The Silent Patient,Alex Michaelides,Thriller,Online,Card,44,41,30,Flat 50% Discount,50,Completed,No
+232f8321,509f1c,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,38,35,30,Flat 50% Discount,50,Completed,No
+b58b7ce6,d766a5,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,5,4,10,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+640abcba,745f65,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,7,4,30,,0,Completed,Yes
+8bff185c,7544bf,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,15,14,10,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+227751b1,c04bb4,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,14,11,30,,0,Declined (Insufficient Funds),No
+5d50143f,1fece1,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,26,24,20,,0,Completed,No
+19a90e9c,c0a79b,Educated,Tara Westover,Memoir,Online,Card,39,36,30,Earn 2x Reward Points,0,Completed,No
+c754e793,782b60,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,47,45,20,,0,Completed,No
+07a096c9,87fab3,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,14,11,30,,0,Completed,No
+b4d3ddd3,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,26,25,0,,0,Completed,No
+123db5fb,9731c3,Atomic Habits,James Clear,Self-Help,Online,Cash,43,40,30,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+768f9f67,7a779c,Becoming,Michelle Obama,Biography,Online,Online Payment,16,14,20,,0,Completed,No
+d67c35e3,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,36,33,0,,0,Completed,No
+59acab63,da3576,Atomic Habits,James Clear,Self-Help,Online,Cash,46,45,10,Earn 2x Reward Points,0,Completed,No
+eecdef24,8f80b6,Dune,Frank Herbert,Sci-Fi,Online,Card,20,17,30,Earn 2x Reward Points,0,Completed,No
+3715c33e,91a502,Atomic Habits,James Clear,Self-Help,Online,Online Payment,29,27,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+5108af54,93498f,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,37,35,20,,0,Completed,No
+67c1f321,c62b2f,Becoming,Michelle Obama,Biography,Online,Cash,31,29,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+82a565de,f73852,Atomic Habits,James Clear,Self-Help,Online,Cash,42,41,10,Earn 2x Reward Points,0,Completed,No
+e340e063,5b48a5,Atomic Habits,James Clear,Self-Help,Online,Card,44,41,30,,0,Completed,No
+80a03cc7,75fa13,Educated,Tara Westover,Memoir,Online,Card,22,20,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+2ecbb83f,34944a,The Silent Patient,Alex Michaelides,Thriller,Online,Card,49,46,30,Earn 2x Reward Points,0,Completed,No
+e9885d4c,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,16,13,0,,0,Completed,No
+611dc4fa,47e470,Atomic Habits,James Clear,Self-Help,Online,Cash,12,10,20,Earn 2x Reward Points,0,Completed,No
+89cd0baf,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,20,19,0,,0,Completed,No
+0967a4a0,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,44,43,0,,0,Completed,No
+dcfcb4d3,be869a,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,49,47,20,"Buy One, Get One Free",0,Completed,No
+543c480e,2da2f2,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,19,16,30,Earn 2x Reward Points,0,Completed,No
+eb963dd8,b081df,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,50,49,10,Flat 50% Discount,50,Completed,No
+9d1a8040,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,17,15,0,,0,Completed,No
+df3d9e17,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,39,37,0,,0,Completed,No
+6b93e32a,2.41E+20,Educated,Tara Westover,Memoir,Online,Card,23,22,10,"Buy One, Get One Free",0,Completed,No
+9b800f01,cbe433,Dune,Frank Herbert,Sci-Fi,Online,Cash,8,7,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+dc87b9e0,8e4424,The Silent Patient,Alex Michaelides,Thriller,Online,Card,50,48,20,,0,Completed,No
+63cd855f,22e45a,Becoming,Michelle Obama,Biography,Online,Online Payment,39,37,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+2dcfdc27,0f84a8,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,28,25,30,,0,Completed,No
+68c40f3e,e0b65c,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,17,15,20,Flat 50% Discount,50,Completed,No
+3968bded,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,14,13,0,,0,Completed,No
+893a825b,9a805a,Dune,Frank Herbert,Sci-Fi,Online,Card,50,49,10,Earn 2x Reward Points,0,Completed,No
+a7bc0bc4,91d873,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,18,17,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+721fb963,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,7,6,0,,0,Completed,No
+813af529,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,6,3,0,,0,Declined (Insufficient Funds),Yes
+ae689598,f4a230,Dune,Frank Herbert,Sci-Fi,Online,Card,32,30,20,Flat 50% Discount,50,Completed,No
+dd0da837,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,41,40,0,,0,Completed,No
+a08b5133,f110c7,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,11,10,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+df6aeebb,922185,Atomic Habits,James Clear,Self-Help,Online,Online Payment,14,12,20,"Buy One, Get One Free",0,Completed,No
+d269932a,0d0cd0,1984,George Orwell,Dystopian,Online,Online Payment,50,48,20,Earn 2x Reward Points,0,Completed,No
+1a728657,ba4306,Atomic Habits,James Clear,Self-Help,Online,Online Payment,41,39,20,Earn 2x Reward Points,0,Completed,No
+216b4e80,cc59fe,1984,George Orwell,Dystopian,Online,Online Payment,12,11,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+b87084e3,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,26,23,0,,0,Completed,No
+70ee9769,a9f405,Becoming,Michelle Obama,Biography,Online,Card,7,6,10,,0,Completed,No
+208ca45d,218469,The Midnight Library,Matt Haig,Fantasy,Online,Card,26,24,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+aa7c96fa,f1a9fc,The Midnight Library,Matt Haig,Fantasy,Online,Card,49,47,20,Flat 50% Discount,50,Completed,No
+bf1f9976,1b3e90,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,32,30,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+e27d077b,Guest,Educated,Tara Westover,Memoir,In-Store,Card,43,42,0,,0,Completed,No
+4f8af70a,57a9f5,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,15,12,30,"Buy One, Get One Free",0,Completed,No
+77f33468,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,35,33,0,,0,Declined (Insufficient Funds),No
+8e3e0c98,60f136,Atomic Habits,James Clear,Self-Help,Online,Online Payment,49,48,10,Flat 50% Discount,50,Completed,No
+1db6bcf0,bd8ae3,The Silent Patient,Alex Michaelides,Thriller,Online,Card,14,12,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+0632bf3e,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,14,13,0,,0,Completed,No
+477589cf,60b781,1984,George Orwell,Dystopian,Online,Card,12,11,10,"Buy One, Get One Free",0,Completed,No
+04a9cc23,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,49,47,0,,0,Completed,No
+07bdda51,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,30,27,0,,0,Completed,No
+d755fe52,9b153f,Becoming,Michelle Obama,Biography,Online,Online Payment,28,25,30,Earn 2x Reward Points,0,Completed,No
+98f6e718,fb4ea0,The Silent Patient,Alex Michaelides,Thriller,Online,Card,44,43,10,"Buy One, Get One Free",0,Completed,No
+bdc93421,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,19,16,0,,0,Completed,No
+c01e9c92,07326b,Dune,Frank Herbert,Sci-Fi,Online,Card,50,49,10,Flat 50% Discount,50,Completed,No
+7f1022c0,0f7e2f,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,27,25,20,"Buy One, Get One Free",0,Completed,No
+7cbed336,2abb1d,Atomic Habits,James Clear,Self-Help,Online,Cash,40,38,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+a35cbd04,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,49,46,0,,0,Completed,No
+a7021b31,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,48,45,0,,0,Completed,No
+2bb7c5b4,0ef847,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,40,39,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+0335652d,e89fb3,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,9,6,30,Earn 2x Reward Points,0,Completed,No
+745a0950,9bec02,1984,George Orwell,Dystopian,Online,Cash,37,35,20,,0,Completed,No
+7388233a,4957f7,1984,George Orwell,Dystopian,Online,Cash,29,26,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+d5ae7ee4,925c67,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,46,44,20,,0,Completed,No
+4a827be4,795737,Atomic Habits,James Clear,Self-Help,Online,Online Payment,33,32,10,,0,Completed,No
+620c694b,0ed0c7,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,17,14,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+02ee827a,143d2a,Becoming,Michelle Obama,Biography,Online,Cash,6,5,10,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+bfbcd121,477751,Atomic Habits,James Clear,Self-Help,Online,Card,21,19,20,Flat 50% Discount,50,Completed,No
+dd61d81e,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,48,45,0,,0,Completed,No
+431dcad1,e16e0a,Educated,Tara Westover,Memoir,Online,Cash,10,8,20,Earn 2x Reward Points,0,Completed,No
+5c3adc97,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,9,6,0,,0,Completed,No
+dc63c7b6,Guest,Educated,Tara Westover,Memoir,In-Store,Card,20,19,0,,0,Completed,No
+a6e05dfa,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,7,4,0,,0,Completed,Yes
+ee97dca7,ecceb4,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,17,15,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+b5af43d2,2a6ee8,Atomic Habits,James Clear,Self-Help,Online,Cash,8,6,20,,0,Completed,No
+03df0e98,ed6c3a,1984,George Orwell,Dystopian,Online,Card,5,3,20,,0,Completed,Yes
+5ef7ce54,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,50,47,0,,0,Completed,No
+eb94324c,f56cf4,Becoming,Michelle Obama,Biography,Online,Online Payment,42,40,20,,0,Completed,No
+91e80100,bec77f,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,35,33,20,Flat 50% Discount,50,Completed,No
+4044ce2a,71dd77,1984,George Orwell,Dystopian,Online,Cash,25,23,20,"Buy One, Get One Free",0,Completed,No
+214d83f5,3b2190,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,20,18,20,Earn 2x Reward Points,0,Completed,No
+1f0dfacf,bdcc9f,The Silent Patient,Alex Michaelides,Thriller,Online,Card,38,35,30,Earn 2x Reward Points,0,Completed,No
+ebabc5cc,480ac1,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,39,36,30,Flat 50% Discount,50,Completed,No
+deee1487,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,42,41,0,,0,Completed,No
+0b243721,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,18,16,0,,0,Completed,No
+20ebce1c,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,44,43,0,,0,Completed,No
+aa090c44,25ee46,Atomic Habits,James Clear,Self-Help,Online,Cash,21,20,10,Earn 2x Reward Points,0,Completed,No
+2d0f8f5b,a3ad4d,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,8,7,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+2d116102,613c45,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,25,24,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+55f6cca3,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,30,28,0,,0,Completed,No
+da22b676,2cd13e,The Midnight Library,Matt Haig,Fantasy,Online,Card,50,47,30,Earn 2x Reward Points,0,Completed,No
+c0a1b42b,1f4ddf,1984,George Orwell,Dystopian,Online,Online Payment,12,10,20,,0,Completed,No
+1ab3b23e,538f27,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,38,36,20,,0,Completed,No
+9fa0415a,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,16,13,0,,0,Completed,No
+d0ba4636,Guest,Educated,Tara Westover,Memoir,In-Store,Card,44,41,0,,0,Completed,No
+e2826461,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,36,35,0,,0,Completed,No
+0a4106a4,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,42,39,0,,0,Completed,No
+b01a201e,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,27,25,0,,0,Completed,No
+dd9fa4c5,62d174,1984,George Orwell,Dystopian,Online,Cash,17,15,20,"Buy One, Get One Free",0,Completed,No
+0004576f,cd77a2,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,21,19,20,Earn 2x Reward Points,0,Completed,No
+cfa5f595,23b369,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,32,30,20,,0,Completed,No
+88bdbb84,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,27,24,0,,0,Completed,No
+61ecebe5,1059f3,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,34,33,10,Earn 2x Reward Points,0,Completed,No
+7ce36094,b9c20a,Becoming,Michelle Obama,Biography,Online,Card,47,46,10,,0,Completed,No
+0088e638,26cafe,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,46,43,30,"Buy One, Get One Free",0,Completed,No
+5d7ef35d,a000d7,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,37,36,10,,0,Completed,No
+8ad7d22d,308c7e,Educated,Tara Westover,Memoir,Online,Card,26,24,20,"Buy One, Get One Free",0,Completed,No
+0547f947,Guest,1984,George Orwell,Dystopian,In-Store,Cash,28,26,0,,0,Completed,No
+b87248dc,22080,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,29,27,20,"Buy One, Get One Free",0,Completed,No
+c5e339e9,7a200c,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,8,5,30,Flat 50% Discount,50,Completed,No
+12962994,4b9122,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,39,38,10,Earn 2x Reward Points,0,Completed,No
+142ff1b5,2705f7,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,42,41,10,Flat 50% Discount,50,Completed,No
+7215eff7,61d975,1984,George Orwell,Dystopian,Online,Online Payment,31,30,10,"Buy One, Get One Free",0,Completed,No
+28da1b3a,282c09,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,25,23,20,"Buy One, Get One Free",0,Completed,No
+6ac1378f,6f12d7,The Midnight Library,Matt Haig,Fantasy,Online,Card,9,6,30,Flat 50% Discount,50,Completed,No
+fc494d97,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,21,19,0,,0,Completed,No
+c8306e5a,65d9dc,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,22,19,30,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+fb99cff6,a0c1c0,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,49,47,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+0b907876,f16c21,Educated,Tara Westover,Memoir,Online,Online Payment,10,9,10,,0,Completed,No
+7e790282,a95a62,Atomic Habits,James Clear,Self-Help,Online,Card,10,8,20,Earn 2x Reward Points,0,Completed,No
+0901d327,08849c,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,22,21,10,"Buy One, Get One Free",0,Completed,No
+90f9f019,e5cc3b,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,29,28,10,Earn 2x Reward Points,0,Completed,No
+a9173bcf,a743d8,The Midnight Library,Matt Haig,Fantasy,Online,Card,43,41,20,,0,Completed,No
+7895d07b,3d0087,Educated,Tara Westover,Memoir,Online,Card,26,23,30,Flat 50% Discount,50,Completed,No
+f4676923,f7c7fe,Becoming,Michelle Obama,Biography,Online,Card,24,22,20,Flat 50% Discount,50,Completed,No
+195578ec,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,31,30,0,,0,Completed,No
+c1ba3072,7644b7,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,31,29,20,"Buy One, Get One Free",0,Completed,No
+9f7df0f5,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,27,24,0,,0,Completed,No
+f586ecfd,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,22,21,0,,0,Completed,No
+1ecc4fd5,8c00b3,Dune,Frank Herbert,Sci-Fi,Online,Card,46,45,10,Earn 2x Reward Points,0,Completed,No
+962e93ab,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,32,29,0,,0,Completed,No
+862a6500,90bbf5,Becoming,Michelle Obama,Biography,Online,Online Payment,44,43,10,,0,Completed,No
+84a8afd1,ec7abe,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,38,37,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+d9b578a8,6d0224,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,34,33,10,"Buy One, Get One Free",0,Completed,No
+6e31774c,ecaebc,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,18,16,20,Earn 2x Reward Points,0,Completed,No
+15be73ff,51b134,Atomic Habits,James Clear,Self-Help,Online,Online Payment,15,12,30,Earn 2x Reward Points,0,Completed,No
+b5414e83,0d665d,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,25,23,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+4f040103,Guest,Educated,Tara Westover,Memoir,In-Store,Card,26,25,0,,0,Completed,No
+a5838bb9,d66d43,Educated,Tara Westover,Memoir,Online,Card,18,17,10,,0,Completed,No
+8f88efa9,144dbf,Becoming,Michelle Obama,Biography,Online,Online Payment,39,36,30,"Buy One, Get One Free",0,Completed,No
+ccaca5a4,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,40,38,0,,0,Completed,No
+c05b2dba,545a0c,Becoming,Michelle Obama,Biography,Online,Online Payment,34,31,30,Earn 2x Reward Points,0,Completed,No
+a68b6504,7ed37f,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,33,32,10,"Buy One, Get One Free",0,Completed,No
+39c463b2,74997,1984,George Orwell,Dystopian,Online,Cash,13,10,30,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+badfda72,101b0f,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,47,46,10,,0,Completed,No
+4438ca5f,54bdae,Educated,Tara Westover,Memoir,Online,Cash,7,4,30,,0,Completed,Yes
+356249f7,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,18,17,0,,0,Completed,No
+6936df88,258930,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,32,31,10,Flat 50% Discount,50,Completed,No
+94097ccf,208db9,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,39,38,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+ef0500f4,d2c26f,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,31,28,30,Earn 2x Reward Points,0,Completed,No
+2da92477,48543b,Educated,Tara Westover,Memoir,Online,Cash,6,3,30,Earn 2x Reward Points,0,Declined (Insufficient Funds),Yes
+52a47aa9,ff4963,Atomic Habits,James Clear,Self-Help,Online,Card,21,18,30,Flat 50% Discount,50,Completed,No
+d33f2f9f,7afcfb,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,14,13,10,"Buy One, Get One Free",0,Completed,No
+c9301697,Guest,Educated,Tara Westover,Memoir,In-Store,Card,50,47,0,,0,Completed,No
+8de9e9dd,d2bfd3,1984,George Orwell,Dystopian,Online,Card,11,9,20,Earn 2x Reward Points,0,Completed,No
+72e921dd,c3b118,Educated,Tara Westover,Memoir,Online,Cash,45,43,20,,0,Completed,No
+16e60a0e,921031,The Midnight Library,Matt Haig,Fantasy,Online,Cash,31,30,10,Earn 2x Reward Points,0,Completed,No
+1d0ed503,4b9b75,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,38,35,30,,0,Completed,No
+80bc7599,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,32,31,0,,0,Completed,No
+9f5d3297,ebf339,Dune,Frank Herbert,Sci-Fi,Online,Card,37,34,30,"Buy One, Get One Free",0,Completed,No
+7ef440fa,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,34,31,0,,0,Completed,No
+5f2313b6,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,35,34,0,,0,Completed,No
+63489c1c,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,41,39,0,,0,Completed,No
+c9d56afc,000d46,Atomic Habits,James Clear,Self-Help,Online,Card,32,29,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+77a659d7,b388a7,Becoming,Michelle Obama,Biography,Online,Online Payment,27,26,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+c486446e,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,22,21,0,,0,Completed,No
+e3537b19,593b1f,Becoming,Michelle Obama,Biography,Online,Online Payment,7,6,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+2468dc24,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,8,7,0,,0,Completed,No
+de4815ff,121634,The Midnight Library,Matt Haig,Fantasy,Online,Cash,48,47,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+4ddbabba,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,31,28,0,,0,Completed,No
+8265d160,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,10,9,0,,0,Completed,No
+da7f18a4,e9b71d,Atomic Habits,James Clear,Self-Help,Online,Online Payment,20,17,30,Earn 2x Reward Points,0,Completed,No
+1d66fb54,1bc029,Becoming,Michelle Obama,Biography,Online,Card,15,12,30,"Buy One, Get One Free",0,Completed,No
+debd50c0,14c7c5,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,33,31,20,Earn 2x Reward Points,0,Completed,No
+eb013b44,ad7bcb,Atomic Habits,James Clear,Self-Help,Online,Cash,28,25,30,Earn 2x Reward Points,0,Completed,No
+e4f82c19,7e330c,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,27,25,20,Flat 50% Discount,50,Completed,No
+8fd8335e,c78a88,Atomic Habits,James Clear,Self-Help,Online,Online Payment,39,36,30,Flat 50% Discount,50,Completed,No
+425e07ad,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,33,31,0,,0,Completed,No
+70bbadaa,6c5b96,The Silent Patient,Alex Michaelides,Thriller,Online,Card,47,44,30,Flat 50% Discount,50,Completed,No
+3a72d710,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,29,26,0,,0,Declined (Insufficient Funds),No
+f463faa0,3a5972,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,12,10,20,,0,Completed,No
+1e513af0,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,17,14,0,,0,Completed,No
+09666a48,e1d76d,Atomic Habits,James Clear,Self-Help,Online,Online Payment,48,46,20,Flat 50% Discount,50,Completed,No
+34afafbb,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,32,29,0,,0,Completed,No
+8e04f310,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,40,39,0,,0,Completed,No
+2cfa4489,405cde,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,40,39,10,Earn 2x Reward Points,0,Completed,No
+3092d91e,0f80b0,Educated,Tara Westover,Memoir,Online,Online Payment,5,3,20,,0,Completed,Yes
+6a7b7b39,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,42,41,0,,0,Declined (Insufficient Funds),No
+b0b5e392,d98116,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,46,43,30,,0,Completed,No
+15a84196,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,26,25,0,,0,Completed,No
+65feb910,5ec83c,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,7,5,20,Flat 50% Discount,50,Completed,No
+b01a4511,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,15,14,0,,0,Completed,No
+4066d8a3,7b5843,Educated,Tara Westover,Memoir,Online,Card,29,26,30,Flat 50% Discount,50,Completed,No
+c403d7e1,32ea5f,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,42,39,30,,0,Completed,No
+a794a938,16cf44,Educated,Tara Westover,Memoir,Online,Card,45,43,20,Earn 2x Reward Points,0,Completed,No
+c5f51044,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,11,10,0,,0,Completed,No
+3239323d,9633de,1984,George Orwell,Dystopian,Online,Cash,13,12,10,Earn 2x Reward Points,0,Completed,No
+31597b48,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,9,6,0,,0,Completed,No
+811076af,786c31,Dune,Frank Herbert,Sci-Fi,Online,Cash,10,8,20,Flat 50% Discount,50,Completed,No
+ed2887ee,6e1e9c,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,5,2,30,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+9eed6cd6,8d8c6e,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,22,21,10,,0,Completed,No
+00b861ac,88e6e5,Educated,Tara Westover,Memoir,Online,Online Payment,14,13,10,Flat 50% Discount,50,Completed,No
+c0b7f941,014bb2,Atomic Habits,James Clear,Self-Help,Online,Card,41,40,10,Earn 2x Reward Points,0,Completed,No
+166d96ab,925de0,Becoming,Michelle Obama,Biography,Online,Cash,28,25,30,Earn 2x Reward Points,0,Completed,No
+4d41d856,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,26,24,0,,0,Completed,No
+e874e178,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,28,26,0,,0,Completed,No
+4ab33a72,06cabf,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,7,4,30,,0,Completed,Yes
+64b3d8c6,c716df,Atomic Habits,James Clear,Self-Help,Online,Online Payment,29,28,10,Flat 50% Discount,50,Declined (Insufficient Funds),No
+a443c73d,6e887e,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,20,19,10,"Buy One, Get One Free",0,Completed,No
+785ff543,175f16,Educated,Tara Westover,Memoir,Online,Card,47,45,20,,0,Completed,No
+ebd039c2,e50f21,The Midnight Library,Matt Haig,Fantasy,Online,Card,29,26,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+2f5cb0f9,9d1a06,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,15,13,20,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+99f7f907,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,23,21,0,,0,Completed,No
+564b5a4a,2f8f1f,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,24,21,30,"Buy One, Get One Free",0,Completed,No
+9909297,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,46,43,0,,0,Completed,No
+d9a41233,b12bc5,The Midnight Library,Matt Haig,Fantasy,Online,Cash,31,28,30,Flat 50% Discount,50,Completed,No
+6d1b676b,eb6abf,1984,George Orwell,Dystopian,Online,Cash,28,27,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+a0e62b5e,9a6ea6,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,43,42,10,Earn 2x Reward Points,0,Completed,No
+6ff82131,Guest,1984,George Orwell,Dystopian,In-Store,Card,40,37,0,,0,Completed,No
+61b8897c,682997,Dune,Frank Herbert,Sci-Fi,Online,Cash,5,3,20,,0,Completed,Yes
+697ec2b6,8c7dca,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,42,41,10,"Buy One, Get One Free",0,Completed,No
+0a28827f,a938d1,Becoming,Michelle Obama,Biography,Online,Cash,46,44,20,"Buy One, Get One Free",0,Completed,No
+1a36ccff,8165b1,Atomic Habits,James Clear,Self-Help,Online,Cash,10,7,30,Earn 2x Reward Points,0,Completed,No
+0fd7b5e8,39ab97,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,19,16,30,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+28dc7530,d59791,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,19,16,30,,0,Completed,No
+30630eb6,Guest,Educated,Tara Westover,Memoir,In-Store,Card,40,37,0,,0,Completed,No
+3ae26245,28df81,Atomic Habits,James Clear,Self-Help,Online,Cash,47,46,10,"Buy One, Get One Free",0,Completed,No
+3a4568d4,254055,1984,George Orwell,Dystopian,Online,Card,27,25,20,,0,Completed,No
+f3d23567,c66684,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,22,21,10,"Buy One, Get One Free",0,Completed,No
+6db649f5,297dd7,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,14,12,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+e2229b1a,8cf906,Becoming,Michelle Obama,Biography,Online,Card,48,46,20,,0,Completed,No
+16e4f4dc,a0714a,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,12,11,10,Flat 50% Discount,50,Completed,No
+4b45377e,a008b8,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,11,10,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+74178a24,8.88E+41,Dune,Frank Herbert,Sci-Fi,Online,Cash,6,3,30,Flat 50% Discount,50,Completed,Yes
+30f74931,61e10e,The Silent Patient,Alex Michaelides,Thriller,Online,Card,19,16,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+e8ed4d55,17be9a,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,49,48,10,Earn 2x Reward Points,0,Completed,No
+7496b730,a66189,Becoming,Michelle Obama,Biography,Online,Cash,8,7,10,Flat 50% Discount,50,Completed,No
+e9a78dc6,31719f,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,20,19,10,Flat 50% Discount,50,Completed,No
+ceacb0bd,572872,The Midnight Library,Matt Haig,Fantasy,Online,Cash,37,36,10,Flat 50% Discount,50,Completed,No
+70679acb,0d4ee4,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,44,41,30,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+320af4ae,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,30,27,0,,0,Completed,No
+d9a86f09,b2eba3,Becoming,Michelle Obama,Biography,Online,Cash,23,21,20,"Buy One, Get One Free",0,Completed,No
+e679c233,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,25,24,0,,0,Completed,No
+50b27946,f75033,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,48,46,20,Flat 50% Discount,50,Completed,No
+8ff14db9,5d0b37,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,35,34,10,,0,Completed,No
+398c6d12,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,16,14,0,,0,Completed,No
+de329be5,Guest,1984,George Orwell,Dystopian,In-Store,Cash,44,42,0,,0,Completed,No
+329b7b6b,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,14,12,0,,0,Completed,No
+227a88b7,72d147,Becoming,Michelle Obama,Biography,Online,Card,39,38,10,"Buy One, Get One Free",0,Completed,No
+307ae6d1,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,41,40,0,,0,Completed,No
+456cf3d4,c44617,Dune,Frank Herbert,Sci-Fi,Online,Cash,25,24,10,,0,Completed,No
+aa34e4fd,473749,Becoming,Michelle Obama,Biography,Online,Card,6,3,30,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+aae9ebba,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,25,23,0,,0,Completed,No
+e4a76353,97fa48,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,39,37,20,Flat 50% Discount,50,Completed,No
+24a7d85f,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,45,43,0,,0,Completed,No
+600191ad,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,43,42,0,,0,Declined (Insufficient Funds),No
+e4a677c8,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,43,42,0,,0,Completed,No
+71dadb2d,82314c,Dune,Frank Herbert,Sci-Fi,Online,Cash,44,42,20,"Buy One, Get One Free",0,Completed,No
+41472cf7,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,44,41,0,,0,Completed,No
+1c9b2159,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,38,37,0,,0,Completed,No
+0433e308,180f20,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,18,16,20,Earn 2x Reward Points,0,Completed,No
+9b5c09fb,3e4b9e,Dune,Frank Herbert,Sci-Fi,Online,Cash,19,16,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+b794e2ff,1e7d9c,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,5,4,10,"Buy One, Get One Free",0,Completed,Yes
+c080bcee,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,36,34,0,,0,Completed,No
+69c9e519,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,28,25,0,,0,Completed,No
+8c06df56,24418,The Midnight Library,Matt Haig,Fantasy,Online,Cash,37,36,10,,0,Completed,No
+cca2ad1b,9d510b,Dune,Frank Herbert,Sci-Fi,Online,Cash,36,33,30,"Buy One, Get One Free",0,Completed,No
+4165ed76,c26002,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,45,44,10,,0,Completed,No
+56ed3620,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,16,14,0,,0,Completed,No
+95ed9aea,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,20,17,0,,0,Completed,No
+9b000cb3,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,25,22,0,,0,Completed,No
+ec1c6354,0dcf9c,Atomic Habits,James Clear,Self-Help,Online,Card,22,20,20,Earn 2x Reward Points,0,Completed,No
+b99b676c,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,39,37,0,,0,Completed,No
+6b19d1a3,Guest,1984,George Orwell,Dystopian,In-Store,Card,28,27,0,,0,Completed,No
+94e0e27b,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,49,46,0,,0,Declined (Insufficient Funds),No
+4200ada4,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,42,39,0,,0,Declined (Insufficient Funds),No
+7715e74f,adc527,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,12,10,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+8b562a88,6b05e6,1984,George Orwell,Dystopian,Online,Online Payment,32,31,10,,0,Completed,No
+e0efae23,d7b1f6,Educated,Tara Westover,Memoir,Online,Online Payment,31,28,30,Earn 2x Reward Points,0,Completed,No
+1746fc6f,e12e35,Educated,Tara Westover,Memoir,Online,Online Payment,11,9,20,,0,Completed,No
+d409fbdd,d31a70,Educated,Tara Westover,Memoir,Online,Card,28,25,30,"Buy One, Get One Free",0,Completed,No
+b39605e2,07ab73,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,13,12,10,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+dc04bc98,bee99f,Becoming,Michelle Obama,Biography,Online,Card,10,9,10,,0,Completed,No
+4c68096b,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,38,36,0,,0,Completed,No
+b42c325c,40ae2c,Dune,Frank Herbert,Sci-Fi,Online,Cash,21,19,20,,0,Completed,No
+4e78e7f1,1b9c30,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,49,46,30,Flat 50% Discount,50,Completed,No
+1d2cd7ce,4b60dd,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,33,30,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+d279a35c,762fe7,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,22,21,10,,0,Completed,No
+b37ce688,a04e35,Dune,Frank Herbert,Sci-Fi,Online,Cash,48,46,20,"Buy One, Get One Free",0,Completed,No
+b5ff5ee3,0e03af,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,42,41,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+94acef15,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,23,21,0,,0,Completed,No
+806ff4c8,a9d2b6,Becoming,Michelle Obama,Biography,Online,Card,20,17,30,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+2e481941,bb8561,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,11,8,30,,0,Completed,No
+fb8f3190,97a1d6,Educated,Tara Westover,Memoir,Online,Online Payment,23,21,20,Earn 2x Reward Points,0,Completed,No
+91f33e9b,b76806,1984,George Orwell,Dystopian,Online,Card,15,14,10,Flat 50% Discount,50,Completed,No
+572e9239,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,39,37,0,,0,Completed,No
+e40f3fce,58cf38,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,48,45,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+f2b5a0a5,40c19a,Atomic Habits,James Clear,Self-Help,Online,Card,43,40,30,,0,Completed,No
+6d2434d2,4558ef,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,44,41,30,,0,Completed,No
+2024fc41,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,13,12,0,,0,Completed,No
+724d699c,426f38,Educated,Tara Westover,Memoir,Online,Card,7,4,30,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+1cda2e42,ca7050,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,20,17,30,Flat 50% Discount,50,Completed,No
+d8e6a85e,63fc3a,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,34,31,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+75e9a926,ee235b,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,27,24,30,,0,Completed,No
+657f3f9c,0f6a44,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,32,29,30,,0,Completed,No
+3f65990a,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Online Payment,37,35,0,,0,Completed,No
+0de6dcf0,81eb93,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,28,27,10,Earn 2x Reward Points,0,Completed,No
+252ea0eb,96c51e,Dune,Frank Herbert,Sci-Fi,Online,Card,33,32,10,"Buy One, Get One Free",0,Completed,No
+81a06512,fae7e5,Atomic Habits,James Clear,Self-Help,Online,Online Payment,35,32,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+716152a7,25fc6c,The Midnight Library,Matt Haig,Fantasy,Online,Cash,49,47,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+cac59a43,0162c2,Becoming,Michelle Obama,Biography,Online,Cash,33,31,20,"Buy One, Get One Free",0,Completed,No
+4390f5ed,ae1ada,Atomic Habits,James Clear,Self-Help,Online,Card,6,4,20,,0,Completed,Yes
+8ae196a2,bc283a,The Silent Patient,Alex Michaelides,Thriller,Online,Card,10,8,20,"Buy One, Get One Free",0,Completed,No
+9d47f22b,821dad,Becoming,Michelle Obama,Biography,Online,Card,19,18,10,Flat 50% Discount,50,Completed,No
+b9f147b1,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,41,38,0,,0,Completed,No
+496b7c4c,ace695,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,29,28,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+db360d4f,97043b,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,43,40,30,Flat 50% Discount,50,Completed,No
+374870d0,0a685b,Becoming,Michelle Obama,Biography,Online,Card,6,4,20,Earn 2x Reward Points,0,Completed,Yes
+53bd490c,78bd38,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,22,19,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+a2f47125,890d80,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,22,21,10,Earn 2x Reward Points,0,Completed,No
+f55a2a2f,554a8b,1984,George Orwell,Dystopian,Online,Cash,13,11,20,"Buy One, Get One Free",0,Completed,No
+aed88466,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,48,45,0,,0,Completed,No
+6b56249d,a36a47,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,28,25,30,,0,Completed,No
+08413b43,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,43,40,0,,0,Completed,No
+5fec306f,69ff3a,Dune,Frank Herbert,Sci-Fi,Online,Card,25,24,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+2e2e0453,ba4561,Becoming,Michelle Obama,Biography,Online,Cash,17,16,10,Earn 2x Reward Points,0,Completed,No
+cb67bc8c,4a360b,Dune,Frank Herbert,Sci-Fi,Online,Cash,19,16,30,Flat 50% Discount,50,Completed,No
+feff47ee,ddc04a,Dune,Frank Herbert,Sci-Fi,Online,Card,25,24,10,Flat 50% Discount,50,Completed,No
+a1f92262,abd6e7,Becoming,Michelle Obama,Biography,Online,Cash,36,34,20,Earn 2x Reward Points,0,Completed,No
+94e81ac0,13f810,Becoming,Michelle Obama,Biography,Online,Card,22,21,10,,0,Completed,No
+a5778e04,7add93,Atomic Habits,James Clear,Self-Help,Online,Card,12,11,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+8120d90c,52f5ce,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,17,16,10,,0,Completed,No
+307ff245,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,23,20,0,,0,Completed,No
+aefd3313,d06720,The Midnight Library,Matt Haig,Fantasy,Online,Cash,47,46,10,"Buy One, Get One Free",0,Completed,No
+78b873fd,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,44,41,0,,0,Completed,No
+6de48f16,c7b5e1,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,21,19,20,"Buy One, Get One Free",0,Completed,No
+19297287,3da8e6,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,18,17,10,Earn 2x Reward Points,0,Completed,No
+6316c2be,a58d7b,1984,George Orwell,Dystopian,Online,Cash,28,27,10,,0,Completed,No
+28b7c882,d41a6a,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,45,44,10,,0,Completed,No
+d18b7bb0,87e343,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,12,9,30,"Buy One, Get One Free",0,Completed,No
+e728a990,cf91b6,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,9,7,20,Earn 2x Reward Points,0,Completed,No
+12cb4049,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,5,4,0,,0,Completed,Yes
+1228afb7,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,16,13,0,,0,Completed,No
+b5a1be72,6c1930,Becoming,Michelle Obama,Biography,Online,Card,16,13,30,Earn 2x Reward Points,0,Completed,No
+0c46ccea,1f6f6f,Educated,Tara Westover,Memoir,Online,Online Payment,44,41,30,Earn 2x Reward Points,0,Completed,No
+198db08c,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,40,38,0,,0,Completed,No
+0ed15b14,c748d8,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,29,27,20,Earn 2x Reward Points,0,Completed,No
+153c6e19,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,13,12,0,,0,Declined (Insufficient Funds),No
+13855c94,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,18,15,0,,0,Completed,No
+803ed386,c123c7,Dune,Frank Herbert,Sci-Fi,Online,Card,21,20,10,Flat 50% Discount,50,Completed,No
+010a0340,7f078b,Atomic Habits,James Clear,Self-Help,Online,Cash,35,34,10,Flat 50% Discount,50,Completed,No
+37c2d788,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,37,36,0,,0,Completed,No
+d90f5271,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,18,15,0,,0,Completed,No
+1c52f9a8,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,21,18,0,,0,Completed,No
+90ffe5a3,31c294,1984,George Orwell,Dystopian,Online,Card,8,6,20,Earn 2x Reward Points,0,Completed,No
+bb257569,7e3c63,Becoming,Michelle Obama,Biography,Online,Cash,18,16,20,"Buy One, Get One Free",0,Completed,No
+8e61be3e,4cbb3d,The Midnight Library,Matt Haig,Fantasy,Online,Card,34,31,30,,0,Declined (Insufficient Funds),No
+21e0e398,cbb95c,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,40,38,20,,0,Completed,No
+63031a2d,65554e,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,14,13,10,Flat 50% Discount,50,Completed,No
+7cf112e0,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,34,31,0,,0,Completed,No
+06ba2b40,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,17,15,0,,0,Completed,No
+fb4ec3ea,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,45,43,0,,0,Completed,No
+04481b3c,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,28,26,0,,0,Completed,No
+6bb73e3f,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,33,31,0,,0,Completed,No
+feca65ca,17a4d3,The Midnight Library,Matt Haig,Fantasy,Online,Cash,49,47,20,Earn 2x Reward Points,0,Completed,No
+9e69691c,ad72e9,Dune,Frank Herbert,Sci-Fi,Online,Card,21,19,20,Flat 50% Discount,50,Declined (Insufficient Funds),No
+7b24a479,Guest,Becoming,Michelle Obama,Biography,In-Store,Online Payment,17,14,0,,0,Completed,No
+de471545,0ae03c,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,30,29,10,,0,Completed,No
+beacd6d3,70bbbb,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,12,9,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+bb16591b,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,47,46,0,,0,Completed,No
+90b63ecc,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,24,22,0,,0,Completed,No
+f89606e5,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,27,26,0,,0,Completed,No
+f0ba185a,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,49,46,0,,0,Completed,No
+ac6565a1,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,17,15,0,,0,Completed,No
+7b62c6e3,01-Feb-38,The Midnight Library,Matt Haig,Fantasy,Online,Card,21,19,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+a4d23249,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,35,32,0,,0,Completed,No
+5ccca394,6.61E+55,The Midnight Library,Matt Haig,Fantasy,Online,Card,29,26,30,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+e1e87078,86199f,Atomic Habits,James Clear,Self-Help,Online,Online Payment,36,33,30,Flat 50% Discount,50,Completed,No
+06c12a2c,f93422,Educated,Tara Westover,Memoir,Online,Card,40,39,10,,0,Completed,No
+1d6f523d,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Cash,20,18,0,,0,Completed,No
+647d0b5c,51eccf,1984,George Orwell,Dystopian,Online,Online Payment,42,40,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+387d4cdb,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,27,25,0,,0,Completed,No
+a27054cd,Guest,1984,George Orwell,Dystopian,In-Store,Card,20,19,0,,0,Completed,No
+f7ca21c1,158f19,Dune,Frank Herbert,Sci-Fi,Online,Card,27,24,30,Flat 50% Discount,50,Completed,No
+da41fde5,677078,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,5,4,10,Flat 50% Discount,50,Completed,Yes
+1494d866,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,40,39,0,,0,Completed,No
+29569de0,a3aadc,The Midnight Library,Matt Haig,Fantasy,Online,Card,15,14,10,"Buy One, Get One Free",0,Completed,No
+1ebd5f38,5c9a8a,Atomic Habits,James Clear,Self-Help,Online,Online Payment,15,13,20,,0,Completed,No
+e694c0de,884c82,Dune,Frank Herbert,Sci-Fi,Online,Cash,15,13,20,,0,Completed,No
+fdfcc565,58868e,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,28,27,10,"Buy One, Get One Free",0,Completed,No
+edc3b0a8,3c5bf7,Educated,Tara Westover,Memoir,Online,Card,37,34,30,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+0df6dc7a,13c0fe,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,9,6,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+178d0641,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,23,20,0,,0,Completed,No
+2647a6ae,60b190,Becoming,Michelle Obama,Biography,Online,Card,47,45,20,Flat 50% Discount,50,Completed,No
+55dbb3ba,a6d7ee,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,26,24,20,Flat 50% Discount,50,Completed,No
+bf195496,a473aa,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,46,44,20,Flat 50% Discount,50,Completed,No
+9f148d44,d09a07,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,6,5,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+31613631,279355,1984,George Orwell,Dystopian,Online,Cash,49,48,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+c08c19d1,8c3fb6,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,34,32,20,"Buy One, Get One Free",0,Completed,No
+f846cb42,cb564e,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,11,8,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+507a6928,801de2,Becoming,Michelle Obama,Biography,Online,Card,17,15,20,,0,Completed,No
+9278c8d0,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,48,46,0,,0,Completed,No
+dcfbb226,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,33,30,0,,0,Completed,No
+dae0f9e5,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,7,6,0,,0,Completed,No
+5a7e29fc,7c6aaf,Dune,Frank Herbert,Sci-Fi,Online,Card,19,17,20,,0,Completed,No
+780312d3,66d7ec,Becoming,Michelle Obama,Biography,Online,Card,31,29,20,Flat 50% Discount,50,Completed,No
+3de46916,3f9caa,1984,George Orwell,Dystopian,Online,Cash,49,48,10,"Buy One, Get One Free",0,Completed,No
+be15214b,18ee9f,Dune,Frank Herbert,Sci-Fi,Online,Card,34,33,10,Earn 2x Reward Points,0,Completed,No
+ca7c87df,33314b,Atomic Habits,James Clear,Self-Help,Online,Cash,21,19,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+a2ba012c,Guest,Educated,Tara Westover,Memoir,In-Store,Card,10,7,0,,0,Completed,No
+56beaeb7,485951,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,40,39,10,"Buy One, Get One Free",0,Completed,No
+18df5439,6223b4,The Silent Patient,Alex Michaelides,Thriller,Online,Card,10,9,10,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+d02d0a91,b48498,Dune,Frank Herbert,Sci-Fi,Online,Card,11,10,10,,0,Completed,No
+64da2ca0,6e0834,Educated,Tara Westover,Memoir,Online,Cash,13,12,10,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+1cd85e1b,0ec59c,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,46,44,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+f797c3b6,00036d,Educated,Tara Westover,Memoir,Online,Cash,17,15,20,Earn 2x Reward Points,0,Completed,No
+0de7563b,775ce3,Atomic Habits,James Clear,Self-Help,Online,Online Payment,13,12,10,,0,Completed,No
+52d8bc70,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,49,48,0,,0,Completed,No
+54706967,7f734d,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,12,11,10,,0,Completed,No
+93668046,bdb4ed,Becoming,Michelle Obama,Biography,Online,Online Payment,39,36,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+84b19398,e9e9a2,Atomic Habits,James Clear,Self-Help,Online,Online Payment,39,37,20,Flat 50% Discount,50,Completed,No
+eef9ec53,Guest,1984,George Orwell,Dystopian,In-Store,Cash,34,32,0,,0,Completed,No
+82338284,61c319,The Midnight Library,Matt Haig,Fantasy,Online,Cash,25,22,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+21888ae4,0369ff,The Midnight Library,Matt Haig,Fantasy,Online,Cash,27,25,20,,0,Completed,No
+84bc6598,111c34,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,6,5,10,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+df3b9d0f,f07378,The Midnight Library,Matt Haig,Fantasy,Online,Card,33,30,30,Earn 2x Reward Points,0,Completed,No
+b7bd4863,97cfc4,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,9,6,30,,0,Completed,No
+a68c4f80,596a0e,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,30,29,10,"Buy One, Get One Free",0,Completed,No
+bbe35a28,47f63c,Dune,Frank Herbert,Sci-Fi,Online,Cash,35,32,30,Earn 2x Reward Points,0,Completed,No
+7ae37d15,749ed7,Becoming,Michelle Obama,Biography,Online,Cash,42,39,30,Earn 2x Reward Points,0,Completed,No
+b94e0e3e,c00575,The Silent Patient,Alex Michaelides,Thriller,Online,Card,31,29,20,Flat 50% Discount,50,Completed,No
+fb1965de,92ac1a,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,49,48,10,"Buy One, Get One Free",0,Completed,No
+00948b2e,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,20,19,0,,0,Completed,No
+f2220990,8a2fd8,The Midnight Library,Matt Haig,Fantasy,Online,Cash,23,22,10,Earn 2x Reward Points,0,Completed,No
+100cea79,ff40e7,Becoming,Michelle Obama,Biography,Online,Cash,47,44,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+e5c181bc,3fe634,Educated,Tara Westover,Memoir,Online,Card,29,27,20,Flat 50% Discount,50,Completed,No
+b972ab14,d283a5,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,22,19,30,Flat 50% Discount,50,Completed,No
+f49e64ff,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,48,47,0,,0,Completed,No
+60b30ae7,e08d65,Becoming,Michelle Obama,Biography,Online,Cash,40,37,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+074ee9f6,2832b1,Educated,Tara Westover,Memoir,Online,Card,8,7,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+df841677,Guest,1984,George Orwell,Dystopian,In-Store,Cash,11,10,0,,0,Completed,No
+9566c4b9,7b5e43,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,35,34,10,"Buy One, Get One Free",0,Completed,No
+0a36d97c,fc4d3d,Dune,Frank Herbert,Sci-Fi,Online,Card,31,29,20,Earn 2x Reward Points,0,Completed,No
+739c58df,1d5ebd,Educated,Tara Westover,Memoir,Online,Online Payment,36,34,20,,0,Completed,No
+a9f6bc2d,Guest,1984,George Orwell,Dystopian,In-Store,Card,11,8,0,,0,Completed,No
+5cf3fe50,bba12f,Dune,Frank Herbert,Sci-Fi,Online,Cash,34,32,20,Earn 2x Reward Points,0,Completed,No
+33f4b92e,965532,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,17,15,20,Earn 2x Reward Points,0,Completed,No
+3333c830,0f021f,The Midnight Library,Matt Haig,Fantasy,Online,Card,35,32,30,"Buy One, Get One Free",0,Completed,No
+6deb4c0f,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,6,5,0,,0,Completed,No
+7cca1de9,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,25,22,0,,0,Completed,No
+91e707b3,dbd7e4,Educated,Tara Westover,Memoir,Online,Card,19,18,10,"Buy One, Get One Free",0,Declined (Insufficient Funds),No
+d4f7e450,96782c,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,5,3,20,Earn 2x Reward Points,0,Completed,Yes
+58e56007,244b87,Becoming,Michelle Obama,Biography,Online,Card,50,47,30,"Buy One, Get One Free",0,Completed,No
+37688139,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,45,44,0,,0,Declined (Insufficient Funds),No
+bd34bfc1,b0fa24,The Silent Patient,Alex Michaelides,Thriller,Online,Card,22,19,30,Earn 2x Reward Points,0,Completed,No
+bdcffa27,448885,Educated,Tara Westover,Memoir,Online,Card,12,10,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+e5c78c83,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Online Payment,37,35,0,,0,Completed,No
+706e8593,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,35,32,0,,0,Completed,No
+f06a3959,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,27,26,0,,0,Completed,No
+dd9f0b6b,fb5fe5,The Midnight Library,Matt Haig,Fantasy,Online,Card,45,43,20,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+a6c66f86,1ef6aa,The Midnight Library,Matt Haig,Fantasy,Online,Cash,35,32,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+54f53755,d43b89,Atomic Habits,James Clear,Self-Help,Online,Card,13,12,10,,0,Completed,No
+e8421027,b5b23a,1984,George Orwell,Dystopian,Online,Card,40,37,30,,0,Declined (Insufficient Funds),No
+5ce542f2,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Online Payment,33,31,0,,0,Completed,No
+ba3c7fe7,45308c,Becoming,Michelle Obama,Biography,Online,Online Payment,28,25,30,Earn 2x Reward Points,0,Completed,No
+1a3b583b,93cd4d,1984,George Orwell,Dystopian,Online,Online Payment,43,42,10,Flat 50% Discount,50,Completed,No
+c8a9a28c,1d66ca,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,50,49,10,,0,Completed,No
+b1d3d711,965a40,Educated,Tara Westover,Memoir,Online,Cash,35,33,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+ae512d65,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,39,37,0,,0,Completed,No
+d5c313ed,f9e404,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,8,7,10,Flat 50% Discount,50,Completed,No
+decb41eb,e26b40,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,5,3,20,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+22b0d269,807333,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,30,27,30,Earn 2x Reward Points,0,Completed,No
+7b08ef7e,66a431,Atomic Habits,James Clear,Self-Help,Online,Online Payment,17,14,30,Earn 2x Reward Points,0,Completed,No
+ac42a12b,fe2aa5,The Midnight Library,Matt Haig,Fantasy,Online,Cash,29,28,10,"Buy One, Get One Free",0,Completed,No
+a848b0b7,e54376,Educated,Tara Westover,Memoir,Online,Card,17,16,10,"Buy One, Get One Free",0,Completed,No
+a1bccd53,61b77c,Atomic Habits,James Clear,Self-Help,Online,Online Payment,12,9,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+ae2fe5fb,64d578,Educated,Tara Westover,Memoir,Online,Online Payment,37,36,10,Earn 2x Reward Points,0,Completed,No
+2b3c48b6,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,33,32,0,,0,Completed,No
+e75afc06,7cabd2,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,6,4,20,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+efb1e2ea,67e14f,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,19,17,20,Flat 50% Discount,50,Completed,No
+961a3778,4aa948,1984,George Orwell,Dystopian,Online,Card,16,13,30,Flat 50% Discount,50,Completed,No
+ebdb10ea,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,20,17,0,,0,Completed,No
+41f8e895,f60609,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,27,24,30,Earn 2x Reward Points,0,Completed,No
+7385f7e9,Guest,Becoming,Michelle Obama,Biography,In-Store,Cash,10,8,0,,0,Completed,No
+f96ae128,d42f7e,Atomic Habits,James Clear,Self-Help,Online,Card,40,39,10,"Buy One, Get One Free",0,Completed,No
+29915807,77fef7,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,12,9,30,Earn 2x Reward Points,0,Completed,No
+32fab54b,cb17be,The Silent Patient,Alex Michaelides,Thriller,Online,Card,29,27,20,Earn 2x Reward Points,0,Completed,No
+8ba39f6b,16c5fe,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,9,6,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+587fa5ce,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,20,18,0,,0,Completed,No
+4a7349cf,bc59b5,1984,George Orwell,Dystopian,Online,Online Payment,50,48,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+8f960739,de50f3,Educated,Tara Westover,Memoir,Online,Online Payment,25,24,10,"Buy One, Get One Free",0,Completed,No
+adcf8f09,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,9,6,0,,0,Completed,No
+953caef8,38da64,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,21,19,20,Earn 2x Reward Points,0,Declined (Insufficient Funds),No
+4bd58a56,9f6eeb,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,28,27,10,,0,Completed,No
+3c1e7615,10c772,Atomic Habits,James Clear,Self-Help,Online,Card,5,3,20,"Buy One, Get One Free",0,Completed,Yes
+05819bde,d52fcb,1984,George Orwell,Dystopian,Online,Card,18,15,30,"Buy One, Get One Free",0,Completed,No
+ec965a06,aeb8e7,Atomic Habits,James Clear,Self-Help,Online,Online Payment,9,7,20,"Buy One, Get One Free",0,Completed,No
+a0e1a2e5,8b2bd1,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,43,42,10,"Buy One, Get One Free",0,Completed,No
+95597afc,321867,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,24,21,30,Flat 50% Discount,50,Completed,No
+a2bd20a3,82338b,1984,George Orwell,Dystopian,Online,Cash,11,8,30,"Buy One, Get One Free",0,Completed,No
+40a2ce62,e20933,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,33,30,30,Flat 50% Discount,50,Completed,No
+6122aaef,97205b,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,12,9,30,"Buy One, Get One Free",0,Completed,No
+6208310,1e599e,Educated,Tara Westover,Memoir,Online,Card,14,12,20,,0,Completed,No
+843e44c3,b9130b,Atomic Habits,James Clear,Self-Help,Online,Cash,31,30,10,,0,Completed,No
+f5f00cb5,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,32,29,0,,0,Completed,No
+02b8e780,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,47,44,0,,0,Completed,No
+2b101556,1.86E+35,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,32,31,10,Flat 50% Discount,50,Completed,No
+4500cd0a,1b825c,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,26,23,30,Flat 50% Discount,50,Completed,No
+cb7c3d36,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,30,28,0,,0,Completed,No
+d90b82bd,4f7c24,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,26,23,30,Flat 50% Discount,50,Completed,No
+2500eea3,2a064c,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,30,29,10,Earn 2x Reward Points,0,Completed,No
+80488c22,5eb13d,The Midnight Library,Matt Haig,Fantasy,Online,Card,36,34,20,,0,Completed,No
+c86ed54f,a479ae,Atomic Habits,James Clear,Self-Help,Online,Online Payment,25,22,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+f9a68d53,Guest,Educated,Tara Westover,Memoir,In-Store,Card,43,42,0,,0,Completed,No
+ea0a19ca,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Cash,14,11,0,,0,Declined (Insufficient Funds),No
+b54b10d7,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,29,27,0,,0,Completed,No
+71f2ec1e,cb4ad9,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,10,7,30,"Buy One, Get One Free",0,Completed,No
+5afce2eb,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,24,22,0,,0,Completed,No
+16e8791e,034dd4,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,37,36,10,,0,Completed,No
+1b323f74,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Cash,40,39,0,,0,Completed,No
+2465a282,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Card,17,16,0,,0,Completed,No
+38c713b5,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,31,29,0,,0,Completed,No
+71590cf5,8adca5,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,6,4,20,Earn 2x Reward Points,0,Completed,Yes
+d18dc60d,d4a232,Educated,Tara Westover,Memoir,Online,Card,14,12,20,Flat 50% Discount,50,Completed,No
+acc6cfe1,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,9,6,0,,0,Completed,No
+756caefd,Guest,1984,George Orwell,Dystopian,In-Store,Online Payment,41,39,0,,0,Completed,No
+5ac42794,3d2bd2,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,25,22,30,,0,Completed,No
+acb02eca,dfa850,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,7,5,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+4063fd0d,58ecf9,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,48,47,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+675a2a36,a2f224,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,43,40,30,Earn 2x Reward Points,0,Completed,No
+4c9d32e0,Guest,1984,George Orwell,Dystopian,In-Store,Cash,10,9,0,,0,Completed,No
+63cb7c7a,d18f1b,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,11,10,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+9521c694,c12287,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,9,8,10,"Buy One, Get One Free",0,Completed,No
+00c061b2,814821,Educated,Tara Westover,Memoir,Online,Cash,23,21,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+088cf27d,1c9352,The Midnight Library,Matt Haig,Fantasy,Online,Card,23,20,30,"Buy One, Get One Free",0,Completed,No
+771b5578,f4a801,Becoming,Michelle Obama,Biography,Online,Online Payment,17,16,10,,0,Completed,No
+29a465b0,f60f3c,Atomic Habits,James Clear,Self-Help,Online,Online Payment,42,41,10,"Buy One, Get One Free",0,Completed,No
+513e01b7,3bdaeb,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,37,36,10,"Buy One, Get One Free",0,Completed,No
+f535fcee,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,17,15,0,,0,Completed,No
+5cc0fab0,de34ec,Educated,Tara Westover,Memoir,Online,Card,5,4,10,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+156d658c,971ecc,Dune,Frank Herbert,Sci-Fi,Online,Cash,16,15,10,"Buy One, Get One Free",0,Completed,No
+88d422a2,29f98e,Dune,Frank Herbert,Sci-Fi,Online,Cash,14,11,30,,0,Completed,No
+43e4ccbe,e2fb96,Becoming,Michelle Obama,Biography,Online,Cash,16,15,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+8b5b49ea,d1aca4,Atomic Habits,James Clear,Self-Help,Online,Online Payment,13,11,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+dc4da02d,cfc231,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,41,40,10,,0,Completed,No
+d4d847cf,61fa11,1984,George Orwell,Dystopian,Online,Card,48,46,20,Earn 2x Reward Points,0,Completed,No
+08ba27ec,0ba8ba,The Midnight Library,Matt Haig,Fantasy,Online,Card,5,2,30,Flat 50% Discount,50,Completed,Yes
+9b1898e2,73524f,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,37,35,20,Flat 50% Discount,50,Completed,No
+a156439f,dd5e10,Becoming,Michelle Obama,Biography,Online,Card,25,22,30,Flat 50% Discount,50,Completed,No
+b150dd2b,426378,Dune,Frank Herbert,Sci-Fi,Online,Cash,31,28,30,Earn 2x Reward Points,0,Completed,No
+344a6a30,13bdfe,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,32,30,20,Earn 2x Reward Points,0,Completed,No
+3cc8cca5,c02f1b,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,23,20,30,Earn 2x Reward Points,0,Completed,No
+187625bc,8c36c5,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,35,32,30,Flat 50% Discount,50,Completed,No
+b573f1dd,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,13,11,0,,0,Completed,No
+3d1b5cab,e448a1,Dune,Frank Herbert,Sci-Fi,Online,Cash,40,37,30,,0,Completed,No
+83922581,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Card,9,6,0,,0,Completed,No
+8de71d31,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,29,26,0,,0,Completed,No
+be261462,9de9a3,Educated,Tara Westover,Memoir,Online,Online Payment,6,4,20,Earn 2x Reward Points,0,Completed,Yes
+40bcae3e,f47579,Educated,Tara Westover,Memoir,Online,Card,42,41,10,Earn 2x Reward Points,0,Completed,No
+182fc837,ad0ca4,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,31,30,10,Earn 2x Reward Points,0,Completed,No
+d8afbc2d,116969,Educated,Tara Westover,Memoir,Online,Card,34,33,10,Earn 2x Reward Points,0,Completed,No
+e208a210,d74378,1984,George Orwell,Dystopian,Online,Cash,15,13,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+6e69813c,Guest,1984,George Orwell,Dystopian,In-Store,Cash,5,3,0,,0,Declined (Insufficient Funds),Yes
+1393038e,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,22,21,0,,0,Completed,No
+139ed349,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Card,23,20,0,,0,Completed,No
+068b94bc,a31274,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,13,11,20,Flat 50% Discount,50,Completed,No
+33b182af,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,27,26,0,,0,Completed,No
+fc19cf69,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,48,47,0,,0,Completed,No
+f5cabce6,d15ec6,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,6,3,30,"Buy 3 Books, Get 1 Free",0,Completed,Yes
+3015242c,58dac4,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,24,23,10,Flat 50% Discount,50,Completed,No
+81070873,2fe1b9,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,11,8,30,Flat 50% Discount,50,Completed,No
+3f6efa9e,414897,Educated,Tara Westover,Memoir,Online,Online Payment,50,49,10,,0,Declined (Insufficient Funds),No
+4b7dbfc6,9ef835,Educated,Tara Westover,Memoir,Online,Card,49,46,30,Flat 50% Discount,50,Completed,No
+ebce3067,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,49,47,0,,0,Completed,No
+7d2823fc,9edd9c,Becoming,Michelle Obama,Biography,Online,Cash,16,15,10,Flat 50% Discount,50,Completed,No
+9789a005,bf513c,The Midnight Library,Matt Haig,Fantasy,Online,Cash,26,24,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+ea50fd20,599233,1984,George Orwell,Dystopian,Online,Card,24,22,20,,0,Completed,No
+39e89f1e,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,27,24,0,,0,Completed,No
+9b7af579,1986a7,Atomic Habits,James Clear,Self-Help,Online,Cash,30,29,10,,0,Completed,No
+500b1275,742f3a,The Silent Patient,Alex Michaelides,Thriller,Online,Card,6,5,10,,0,Completed,No
+ed5200a1,6cbd79,The Silent Patient,Alex Michaelides,Thriller,Online,Card,35,34,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+7e1a3a97,ad98ac,The Midnight Library,Matt Haig,Fantasy,Online,Cash,26,24,20,"Buy One, Get One Free",0,Completed,No
+5b371b7a,d90c94,The Midnight Library,Matt Haig,Fantasy,Online,Card,17,15,20,Earn 2x Reward Points,0,Completed,No
+1fd61a68,Guest,1984,George Orwell,Dystopian,In-Store,Card,42,39,0,,0,Completed,No
+a218bc33,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,34,31,0,,0,Completed,No
+f9315221,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Card,32,30,0,,0,Completed,No
+0f2dff55,e97995,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,38,37,10,Earn 2x Reward Points,0,Completed,No
+1ac4e341,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,21,20,0,,0,Completed,No
+711aeef5,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,23,22,0,,0,Completed,No
+507bd4f1,0d9e86,Becoming,Michelle Obama,Biography,Online,Card,37,36,10,"Buy One, Get One Free",0,Completed,No
+68adf0df,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,46,44,0,,0,Declined (Insufficient Funds),No
+7b1397ba,53f055,1984,George Orwell,Dystopian,Online,Card,27,25,20,"Buy One, Get One Free",0,Completed,No
+9dde7a1a,7149d9,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,27,25,20,"Buy One, Get One Free",0,Completed,No
+be1ae000,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,38,36,0,,0,Completed,No
+ab7adab3,85ef38,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,32,30,20,Flat 50% Discount,50,Completed,No
+28340b04,d74677,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,50,49,10,"Buy One, Get One Free",0,Completed,No
+7dfddb89,122bab,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,49,47,20,,0,Completed,No
+6500b9e5,58fa19,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Card,29,27,20,"Buy 3 Books, Get 1 Free",0,Declined (Insufficient Funds),No
+50d06a59,37fc8d,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,21,19,20,Flat 50% Discount,50,Completed,No
+25035253,ff79e6,The Silent Patient,Alex Michaelides,Thriller,Online,Card,12,11,10,Flat 50% Discount,50,Completed,No
+58689f59,89385b,The Midnight Library,Matt Haig,Fantasy,Online,Card,40,37,30,Earn 2x Reward Points,0,Completed,No
+7ca8d9f2,4f002c,Atomic Habits,James Clear,Self-Help,Online,Online Payment,41,40,10,"Buy One, Get One Free",0,Completed,No
+dfd8a939,9af250,1984,George Orwell,Dystopian,Online,Online Payment,33,30,30,Flat 50% Discount,50,Completed,No
+f7b7da39,bbe527,Atomic Habits,James Clear,Self-Help,Online,Card,26,23,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+b2cd1ebc,f8a02e,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,8,6,20,Flat 50% Discount,50,Completed,No
+331de4f1,21a918,Atomic Habits,James Clear,Self-Help,Online,Card,27,26,10,"Buy One, Get One Free",0,Completed,No
+39cc3313,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,6,5,0,,0,Completed,No
+2c1be3c1,9269ef,Atomic Habits,James Clear,Self-Help,Online,Cash,21,20,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+d63d92de,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,13,11,0,,0,Completed,No
+3b2360ea,a0e2ec,The Midnight Library,Matt Haig,Fantasy,Online,Card,13,12,10,"Buy One, Get One Free",0,Completed,No
+cce7ceb6,516808,1984,George Orwell,Dystopian,Online,Cash,48,45,30,Flat 50% Discount,50,Completed,No
+e190a726,7fde17,Atomic Habits,James Clear,Self-Help,Online,Cash,45,43,20,"Buy One, Get One Free",0,Completed,No
+24d9865a,d0fc84,Educated,Tara Westover,Memoir,Online,Card,20,19,10,,0,Completed,No
+4175ea52,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Online Payment,11,9,0,,0,Completed,No
+150aea52,ab447f,1984,George Orwell,Dystopian,Online,Online Payment,40,39,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+763e1563,bf87da,Atomic Habits,James Clear,Self-Help,Online,Online Payment,48,45,30,Flat 50% Discount,50,Completed,No
+9fac6913,9c2020,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,50,49,10,,0,Completed,No
+970d6393,708381,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,13,11,20,Flat 50% Discount,50,Completed,No
+8125591b,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,23,21,0,,0,Completed,No
+c48a5e27,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Cash,48,46,0,,0,Completed,No
+11348397,249d37,1984,George Orwell,Dystopian,Online,Card,8,5,30,Flat 50% Discount,50,Completed,No
+070d04e5,749c01,Becoming,Michelle Obama,Biography,Online,Cash,42,40,20,Flat 50% Discount,50,Completed,No
+904bc46b,9cafde,Educated,Tara Westover,Memoir,Online,Cash,5,3,20,Earn 2x Reward Points,0,Completed,Yes
+0f8dc753,080bd1,The Silent Patient,Alex Michaelides,Thriller,Online,Cash,36,35,10,"Buy One, Get One Free",0,Completed,No
+3ee1c7b7,3db122,The Midnight Library,Matt Haig,Fantasy,Online,Card,30,28,20,Flat 50% Discount,50,Completed,No
+7fec8d3b,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Cash,50,48,0,,0,Completed,No
+966d0a1a,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Card,42,41,0,,0,Completed,No
+c6fdc8e8,4b0ae5,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,45,43,20,,0,Completed,No
+5e6ba9c6,c25eb9,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,41,40,10,Flat 50% Discount,50,Completed,No
+c1b2922f,c59221,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,49,47,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+e29a4d35,933d64,Atomic Habits,James Clear,Self-Help,Online,Online Payment,18,16,20,"Buy One, Get One Free",0,Completed,No
+8cf09a09,7325a9,Becoming,Michelle Obama,Biography,Online,Card,26,23,30,"Buy One, Get One Free",0,Completed,No
+a6bae966,d39d9c,The Silent Patient,Alex Michaelides,Thriller,Online,Online Payment,44,43,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+f624c7db,05f283,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,11,9,20,"Buy One, Get One Free",0,Completed,No
+8f61b16b,26c613,Where the Crawdads Sing,Delia Owens,Fiction,Online,Cash,9,6,30,,0,Completed,No
+6cec7fdf,269de4,Educated,Tara Westover,Memoir,Online,Online Payment,15,12,30,Earn 2x Reward Points,0,Completed,No
+f37ed552,29cf7a,The Silent Patient,Alex Michaelides,Thriller,Online,Card,17,14,30,,0,Completed,No
+e6af2360,81e4a8,The Midnight Library,Matt Haig,Fantasy,Online,Cash,28,26,20,"Buy 3 Books, Get 1 Free",0,Completed,No
+dc14a13d,Guest,Dune,Frank Herbert,Sci-Fi,In-Store,Online Payment,17,15,0,,0,Completed,No
+b488ac1a,51490b,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,28,26,20,,0,Completed,No
+1120838,3e9d7d,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,29,27,20,"Buy One, Get One Free",0,Completed,No
+8fc14b97,00dadc,Dune,Frank Herbert,Sci-Fi,Online,Cash,17,14,30,"Buy One, Get One Free",0,Completed,No
+6b619b4d,a18367,Dune,Frank Herbert,Sci-Fi,Online,Card,48,46,20,"Buy One, Get One Free",0,Completed,No
+8c2e87eb,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,15,12,0,,0,Completed,No
+d635d941,03fa0a,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,20,17,30,"Buy One, Get One Free",0,Completed,No
+f9da4584,Guest,The Silent Patient,Alex Michaelides,Thriller,In-Store,Online Payment,8,6,0,,0,Completed,No
+49120777,0fbbce,1984,George Orwell,Dystopian,Online,Card,14,11,30,Flat 50% Discount,50,Completed,No
+5b2380ca,58ed8b,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Cash,25,24,10,Earn 2x Reward Points,0,Completed,No
+55c20a15,227000,Atomic Habits,James Clear,Self-Help,Online,Card,40,39,10,Earn 2x Reward Points,0,Completed,No
+b230d45a,1f7f62,Dune,Frank Herbert,Sci-Fi,Online,Cash,19,17,20,Earn 2x Reward Points,0,Completed,No
+b3fc2a0d,04a63d,The Silent Patient,Alex Michaelides,Thriller,Online,Card,26,25,10,Flat 50% Discount,50,Completed,No
+e4a9fbf3,641185,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,50,47,30,,0,Completed,No
+225baa2d,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,7,5,0,,0,Completed,No
+b363ae39,8c0431,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,12,9,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+8072934d,54d219,Educated,Tara Westover,Memoir,Online,Online Payment,41,38,30,,0,Completed,No
+3d4fdfd6,c90100,Atomic Habits,James Clear,Self-Help,Online,Online Payment,48,47,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+185d751a,1c384e,The Catcher in the Rye,J.D. Salinger,Classic,Online,Card,7,5,20,Earn 2x Reward Points,0,Completed,No
+49f6589f,9e9258,The Midnight Library,Matt Haig,Fantasy,Online,Online Payment,37,35,20,,0,Completed,No
+7b9c6602,d041be,Becoming,Michelle Obama,Biography,Online,Card,14,11,30,"Buy One, Get One Free",0,Completed,No
+08a84997,7.56E+15,The Midnight Library,Matt Haig,Fantasy,Online,Card,13,11,20,,0,Completed,No
+d70be6b5,267fe8,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,20,18,20,"Buy One, Get One Free",0,Completed,No
+fe66635d,993aa3,The Hobbit,J.R.R. Tolkien,Fantasy,Online,Online Payment,47,45,20,"Buy One, Get One Free",0,Completed,No
+2fcc2ff0,Guest,Educated,Tara Westover,Memoir,In-Store,Card,15,12,0,,0,Completed,No
+5437c860,b68636,Atomic Habits,James Clear,Self-Help,Online,Card,13,10,30,,0,Completed,No
+47e7b5bd,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Card,20,18,0,,0,Completed,No
+fbb353b8,a255d0,The Silent Patient,Alex Michaelides,Thriller,Online,Card,25,24,10,Earn 2x Reward Points,0,Completed,No
+1e2b5eda,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,10,7,0,,0,Completed,No
+352a47bd,Guest,Educated,Tara Westover,Memoir,In-Store,Cash,21,18,0,,0,Completed,No
+393f9b83,79ce87,Where the Crawdads Sing,Delia Owens,Fiction,Online,Card,11,9,20,,0,Completed,No
+cde8c655,d19601,Dune,Frank Herbert,Sci-Fi,Online,Cash,29,26,30,,0,Declined (Insufficient Funds),No
+46f8c0eb,Guest,Atomic Habits,James Clear,Self-Help,In-Store,Cash,40,37,0,,0,Completed,No
+2fd5d189,ec2cfb,Atomic Habits,James Clear,Self-Help,Online,Online Payment,15,13,20,Earn 2x Reward Points,0,Completed,No
+3ab2bddc,b99fd9,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,41,39,20,,0,Completed,No
+2cd98aff,Guest,Becoming,Michelle Obama,Biography,In-Store,Card,7,6,0,,0,Completed,No
+981ee094,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,11,10,0,,0,Completed,No
+b4e40179,Guest,Educated,Tara Westover,Memoir,In-Store,Online Payment,7,6,0,,0,Completed,No
+9a45d578,a60c00,The Silent Patient,Alex Michaelides,Thriller,Online,Card,8,5,30,Flat 50% Discount,50,Completed,No
+299eafae,Guest,The Catcher in the Rye,J.D. Salinger,Classic,In-Store,Online Payment,17,15,0,,0,Completed,No
+d8e7f3d3,Guest,1984,George Orwell,Dystopian,In-Store,Card,13,12,0,,0,Completed,No
+d0a1848a,Guest,Where the Crawdads Sing,Delia Owens,Fiction,In-Store,Online Payment,14,11,0,,0,Completed,No
+801f8ba0,8016d6,1984,George Orwell,Dystopian,Online,Card,13,10,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+830a0851,0a0d31,Educated,Tara Westover,Memoir,Online,Online Payment,44,43,10,"Buy 3 Books, Get 1 Free",0,Completed,No
+14318591,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,29,27,0,,0,Completed,No
+0a721e11,516198,Where the Crawdads Sing,Delia Owens,Fiction,Online,Online Payment,21,19,20,Earn 2x Reward Points,0,Completed,No
+cfc213c3,a5e348,The Catcher in the Rye,J.D. Salinger,Classic,Online,Cash,14,12,20,Flat 50% Discount,50,Completed,No
+c3b0afab,65eda1,1984,George Orwell,Dystopian,Online,Card,26,23,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+97bca68b,035ab5,1984,George Orwell,Dystopian,Online,Card,36,35,10,Flat 50% Discount,50,Completed,No
+d8c88014,78fcf7,Dune,Frank Herbert,Sci-Fi,Online,Online Payment,30,28,20,,0,Completed,No
+67b8dbad,5e3528,The Midnight Library,Matt Haig,Fantasy,Online,Card,32,29,30,"Buy One, Get One Free",0,Completed,No
+b5ef7038,bedf18,The Catcher in the Rye,J.D. Salinger,Classic,Online,Online Payment,6,3,30,"Buy One, Get One Free",0,Completed,Yes
+3a2f478c,Guest,The Hobbit,J.R.R. Tolkien,Fantasy,In-Store,Card,17,14,0,,0,Completed,No
+efde8635,8d74b2,Educated,Tara Westover,Memoir,Online,Card,50,49,10,Flat 50% Discount,50,Completed,No
+ed1b32d3,d74a8e,The Midnight Library,Matt Haig,Fantasy,Online,Card,19,16,30,"Buy 3 Books, Get 1 Free",0,Completed,No
+ae1060c8,Guest,The Midnight Library,Matt Haig,Fantasy,In-Store,Cash,43,41,0,,0,Completed,No
